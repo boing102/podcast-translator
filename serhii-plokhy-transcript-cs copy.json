@@ -1,0 +1,1778 @@
+[
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:00:00",
+        "ts_sortable": 0,
+        "text": "Co se stalo během druhé světové války? Jakmile Němcům začaly docházet pracovní síly, vytvořili skupiny cizinecké legie. Ale protože to nebyli árijci, nedalo se jim věřit. Proto byli podřízeni velení Heinricha Himmlera a komanda SS a stali se známými jako jednotky SS Waffen a jedna taková jednotka byla vytvořena na Ukrajině."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:00:33",
+        "ts_sortable": 33,
+        "text": "Následuje rozhovor se Serhiem Plokhym, historikem z Harvardovy univerzity a ředitelem Ukrajinského výzkumného institutu, který rovněž působí na Harvardu. Jako historik se specializuje na dějiny východní Evropy s důrazem na Ukrajinu. Napsal mnoho skvělých knih o Ukrajině a Rusku, o Sovětském svazu, o slovanských národech obecně napříč staletími, o Černobylu a jaderných katastrofách a o současné válce na Ukrajině, knihu s názvem Rusko-ukrajinská válka: návrat dějin."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:01:09",
+        "ts_sortable": 69,
+        "text": "Toto je podcast Lex Fridman. Chcete-li ho podpořit, podívejte se na naše sponzory v popisu. A nyní, milí přátelé, je tu Serhii Plokhy. Jaká jsou hlavní vysvětlení rozpadu Sovětského svazu? Možná taková, se kterými souhlasíte, a taková, se kterými nesouhlasíte."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:01:25",
+        "ts_sortable": 85,
+        "text": "Lidé si často pletou tři různé procesy, které probíhaly na přelomu osmdesátých a devadesátých let, a jedním z nich byl pád komunismu jako ideologie. Dalším byl konec studené války. A třetím byl konec Sovětského svazu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:01:47",
+        "ts_sortable": 107,
+        "text": "Všechny tyto procesy spolu souvisely, byly vzájemně propojené, ale když lidé vysvětlují všechny tyto procesy ideologií, tak s tím nesouhlasím, protože ideologický kolaps nastal na území Sovětského svazu obecně. Sovětský svaz prohrál studenou válku, ať už mluvíme o Moskvě, Leningradu, nebo nyní o Petrohradu, nebo o Vladivostoku. Ale pád Sovětského svazu je o příběhu, v němž Vladivostok a Petrohrad skončily v jedné zemi a Kyjev, Minsk a Dušanbe skončily v různých zemích."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:02:28",
+        "ts_sortable": 148,
+        "text": "Teorie a vysvětlení, jak k tomu došlo, jsou pro mě opravdu velmi užitečné pro pochopení sovětského kolapsu. Takže mobilizace zdola zhroucení centra na pozadí ekonomického kolapsu, na pozadí ideologické imploze, tak se dívám na pád Sovětského svazu a tak se dívám na teorie, které tento pád vysvětlují."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:03:03",
+        "ts_sortable": 183,
+        "text": "Je to tedy příběh geografie, ideologie a ekonomiky. Které z nich jsou nejdůležitější pro pochopení toho, co způsobilo rozpad Sovětského svazu?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:03:14",
+        "ts_sortable": 194,
+        "text": "Kolaps Sovětského svazu byl jedinečný, ale ne o nic jedinečnější než kolaps jakéhokoli jiného impéria. To, čeho jsme skutečně byli svědky, nebo čeho byl svět svědkem v roce tisíc devět set devadesát jedna, a čeho jsme svědky i dnes v souvislosti s ruskou agresí proti Ukrajině, je zhroucení jednoho z největších světových impérií."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:03:36",
+        "ts_sortable": 216,
+        "text": "Mluvili jsme o Sovětském svazu a nyní mluvíme o Rusku jako o zemi, která má plus minus jednu šestinu povrchu Země. Vlastnictví jedné/šestiny Země nezískáte tím, že jste národní stát. Takovou rozlohu získáte jako impérium. A rozpad Sovětského svazu je pokračováním rozpadu ruského impéria, který začal již v roce 1 9 1 7 a který byl na určitou dobu zastaven bolševiky, komunistickou ideologií, která byla ideologií internacionalistickou. A pak se vrátila v plné síle na přelomu osmdesátých a devadesátých let."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:04:19",
+        "ts_sortable": 259,
+        "text": "Pro mě je tedy nejdůležitější příběh pokračujícího rozpadu ruského impéria a vzestupu nejen místního nacionalismu, ale také vzestupu ruského nacionalismu, který se ukázal být stejně destruktivní silou pro imperiální nebo multietnický, mnohonárodnostní stát, jako byl ukrajinský nacionalismus nebo gruzínský či estonský."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:04:49",
+        "ts_sortable": 289,
+        "text": "Řekl jste mnoho zajímavých věcí. V roce tisíc devět set sedmnáct, bolševici, internacionalisté, jak si to pohrává s myšlenkou ruského impéria a tak dále. Ale nejdřív se zeptám na vliv Spojených států na to. Jednou z myšlenek je, že prostřednictvím studené války, toho mechanismu, měly USA hlavní zájem na oslabení Sovětského svazu, a proto se ten kolaps dal přičíst tlaku a manipulaci ze strany Spojených států. Je na tom něco pravdy?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:05:18",
+        "ts_sortable": 318,
+        "text": "Tlak ze strany Spojených států je součástí studené války. A studená válka, to je součást tohoto příběhu, ale nevysvětluje to sovětský kolaps. A důvod je docela jednoduchý. Spojené státy americké nechtěly, aby se Sovětský svaz zhroutil a rozpadl. Nechtěly to ani na začátku studené války v roce tisíc devět set čtyřicet osm. Nyní máme k dispozici strategické dokumenty. Měly z toho obavy, nechtěly to udělat. A rozhodně to nechtěli udělat v roce tisíc devět set devadesát jedna. Ještě v srpnu roku tisíc devět set devadesát jedna, v měsíci převratu v Moskvě, prezident Bush, George H. W. Bush, cestuje z Moskvy do Kyjeva a pronáší slavný nebo nechvalně známý projev zvaný Chicken Kiev speech, v podstatě varuje Ukrajince před tím, aby šli za nezávislostí."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:06:16",
+        "ts_sortable": 376,
+        "text": "Rozpad Sovětského svazu byl pro administrativu v Bílém domě velkou bolestí hlavy, a to z mnoha důvodů. Rádi spolupracovali s Gorbačovem. Sovětský svaz se na mezinárodní scéně stával mladším partnerem Spojených států. Kolaps to všechno zničil. A navíc tu byla otázka jaderných zbraní, nezapočítaných jaderných zbraní. Takže Spojené státy dělaly všechno, co bylo v lidských silách, aby udržely Sovětský svaz pohromadě v jednom kuse až skutečně do konce listopadu roku tisíc devět set devadesát jedna, kdy bylo jasné, že je to ztracený případ a že se musí rozloučit s Gorbačovem a s projektem, který představil."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:07:05",
+        "ts_sortable": 425,
+        "text": "O několik měsíců později nebo o rok později probíhala prezidentská kampaň a Bush se ucházel o druhé funkční období a hledal úspěchy. A úspěchů bylo mnoho. V zásadě ho beru s velkou úctou, ale zničení Sovětského svazu mezi ty úspěchy nepatřilo. Byl na druhé straně tohoto rozdělení. Ale politika, politická kampaň má samozřejmě svá pravidla. A ty produkují, plodí mytologii, kterou stále, alespoň u nás, žijeme dodnes, dodnes."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:07:44",
+        "ts_sortable": 464,
+        "text": "Gorbačov je v tom všem zajímavou postavou. Je možná historie, kdy se Sovětský svaz nezhroutil a některé z myšlenek, které měl Gorbačov o budoucnosti Sovětského svazu, se uskutečnily?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:07:58",
+        "ts_sortable": 478,
+        "text": "Samozřejmě, historie, na jedné straně, je prohlášení, to neumožňuje, co kdyby. Na druhou stranu, podle mého názoru, je historie plná co by kdyby. O tom dějiny jsou, a určitě o ruských oblastech, o tom, jak by Sovětský svaz pokračoval, pokračoval i po, řekněme, Gorbačovově působení. A argumentovalo se tím, že reformy, které zavedl, že byly špatně řízené a že by se daly řídit jinak, anebo že by žádné reformy nebyly a mohla by pokračovat stagnace. Takže to všechno je možné."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:08:36",
+        "ts_sortable": 516,
+        "text": "Myslím si, že tak či onak by došlo k rozpadu Sovětského svazu v jiné podobě, na něčí hlídce v pozdějším období. Protože nemáme co do činění jen s procesy, které se odehrávají v Sovětském svazu, ale s globálními procesy. A dvacáté století se ukázalo být stoletím rozpadu impérií."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:09:03",
+        "ts_sortable": 543,
+        "text": "Když se podíváte na zeměkouli, na mapu světa v roce tisíc devět set čtrnáct, a porovnáte ji s mapou na konci dvacátého století v roce tisíc devět set devadesát jedna, tisíc devět set devadesát dva, najednou si uvědomíte, že kandidátů na nejdůležitější událost, nejdůležitější proces dvacátého století je mnoho. Ale největší globální událostí, která se stala, bylo překreslení mapy světa a vznik desítek, ne-li stovek nových států. To je výsledek různých procesů dvacátého století. Podívejte se, Jugoslávie se rozpadá přibližně ve stejné době. Československo prochází něčím, co lze nazvat civilizovaným rozvodem, což je při rozpadu mnohonárodnostních států velmi, velmi vzácný jev."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:09:55",
+        "ts_sortable": 595,
+        "text": "Takže ano, bylo to napsáno na zdi, ať už k tomu dojde za Gorbačova, nebo později, ať už k tomu dojde v důsledku reforem, nebo bez reforem. Ale myslím si, že dříve nebo později k tomu dojde."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:10:11",
+        "ts_sortable": 611,
+        "text": "Ano, je velmi pravděpodobné, že za stovky let, tak jak se píše o dvacátém století, bude toto století definováno pádem říší. Sovětský svaz nazýváte \"posledním impériem\". Kniha se jmenuje Poslední říše. Existuje tedy něco zásadního v uspořádání světa, co znamená, že není příznivý pro vznik impérií?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:10:35",
+        "ts_sortable": 635,
+        "text": "Význam, který jsem vkládal do termínu Sovětský svaz jako poslední říše, spočíval v tom, že sovětský kolaps byl kolapsem posledních velkých evropských říší, tradičních říší, které existovaly v osmnáctém století, devatenáctém století a po většinu dvacátého století. Rakousko-Uhersko zaniklo uprostřed první světové války, Osmanská říše se rozpadla. Britové odešli a opustili Indii. A nástupce ruského impéria zvaný Sovětský svaz se tam stále držel."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:11:15",
+        "ts_sortable": 675,
+        "text": "A pak přišlo tisíc devět set devadesát jedna. A to, co vidíme i u dnešního Ruska, je zcela jiný druh politiky. Rusko nebo ruské vedení se snažilo poučit z roku tisíc devět set devadesát jedna, takže v Ruské federaci nejsou žádné národní republiky, které by měly větší práva než ruské správní jednotky. Struktura je jiná, národnostní politika je jiná, míra rusifikace je mnohem vyšší. V mnoha ohledech se tedy již jedná o postimperiální útvar."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:11:59",
+        "ts_sortable": 719,
+        "text": "A máte pravdu, pokud jde o ten okamžik v roce tisíc devět set devadesát jedna, role, kterou v něm sehrála Ukrajina, se zdá být velmi zásadní. Můžete popsat právě to, jakou roli hrála Ukrajina při rozpadu Sovětského svazu?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:12:15",
+        "ts_sortable": 735,
+        "text": "Historie je mnoho věcí, ale začalo to velmi jednoduchým způsobem, kdy jsem si každý rok dělal poznámky, co se stalo ten a ten rok. Jde tedy o chronologii. Chronologie v dějinách rozpadu Sovětského svazu je velmi důležitá. Prvního prosince tisíc devět set devadesát jedna máte ukrajinské referendum a o týden později máte rozpuštění Sovětského svazu představiteli Ruska, Ukrajiny a Běloruska. A otázka zní proč."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:12:46",
+        "ts_sortable": 766,
+        "text": "Odpovědí je ukrajinské referendum, ale Ukrajinci v něm neodpověděli na otázku, zda chtějí, aby byl Sovětský svaz rozpuštěn, nebo ne. Odpověděli velmi omezeně ve smyslu ... Byla to otázka, zda podporujete rozhodnutí [cizí jazyk nula:třináct:šest], vašeho parlamentu, aby se Ukrajina osamostatnila. A zbytek nebyl na hlasovacím lístku. Tak proč potom o týden později Sovětský svaz zanikl? A prezident Jelcin zhruba v té době vysvětloval prezidentu Bushovi důvod, proč je Ukrajina tak důležitá. Řekl: \"No, pokud Ukrajina zanikne, Rusko nemá zájem o tento sovětský projekt, protože Rusko by bylo přečísleno a přehlasováno muslimskými republikami.\" A tak se stalo. Takže tam byl kulturní prvek."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:13:42",
+        "ts_sortable": 822,
+        "text": "Ale byla tu i další. Ukrajina byla druhou největší sovětskou republikou v tehdejším postsovětském státě, co se týče počtu obyvatel, ekonomiky, hospodářského potenciálu a tak dále a tak dále. A jak naznačil Jelcin, kulturně, jazykově i jinak blízká Rusku. Takže když druhá největší republika zanikla, Rusko si nemyslelo, že je v jeho zájmu pokračovat v Sovětském svazu. A zhruba v té době mu Jegor Gajdar, který byl Jelcinovým hlavním ekonomickým poradcem, říkal: \"No, my už prostě nemáme peníze na podporu dalších republik. Musíme se soustředit na Rusko. Musíme použít peníze z ropy a plynu v rámci Ruské federace.\" Takže stát byl v bankrotu. Imperiální projekty, alespoň v kontextu konce dvacátého století, stály peníze. Nebyl to stroj na peníze jako v osmnáctém a devatenáctém století. A kombinace všech těchto faktorů vedla k procesům, v nichž rozhodnutí Ukrajiny osamostatnit se znamenalo konec Sovětského svazu. A pokud dnes někdo chce obnovit ne Sovětský svaz, ale nějakou formu ruské kontroly nad postsovětským prostorem, je Ukrajina dnes stejně důležitá jako v prosinci roku tisíc devět set devadesát jedna."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:15:14",
+        "ts_sortable": 914,
+        "text": "Dovolte mi, abych se vás zeptal na výrok Vladimira Putina, že rozpad Sovětského svazu je jednou z největších tragédií historie. Do jaké míry má pravdu? Do jaké míry se mýlí?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:15:29",
+        "ts_sortable": 929,
+        "text": "Jeho formulace zněla, že se jedná o největší geopolitickou katastrofu či tragédii dvacátého století. A já jsem se konkrétně šel podívat na text a zasadil jsem ho do konkrétního času, kdy se to dělo. A bylo zajímavé, že toto prohlášení bylo učiněno několik týdnů před prvomájovým průvodem a oslavami vítězství, což je klíčová součást mytologie současného ruského státu. Proč tedy říkat věci o tom, že největší geopolitickou strategií je rozpad Sovětského svazu, a ne v tomto konkrétním kontextu druhá světová válka?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:16:14",
+        "ts_sortable": 974,
+        "text": "Alespoň já si to vysvětluji tak, že druhá světová válka měla obrovskou cenu, ale Sovětský svaz z ní vyšel jako velký vítěz a obsadil polovinu Evropy. tisíc devět set devadesát jedna, co se týče ztrát na životech v té době, byla cena ve skutečnosti velmi, velmi nízká. Ale pro Putina bylo důležité, že stát byl ztracen, a zejména mu šlo o rozdělení ruského národa, které tehdy chápal stejně jako dnes velmi, velmi široce."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:16:54",
+        "ts_sortable": 1014,
+        "text": "Největší tragédií pro něj tedy nejsou ztráty na životech, největší tragédií je ztráta velmocenského postavení nebo jednoty těch, které považoval za ruské národy. Tak to alespoň čtu já, tak to chápu, co tam je, co je na papíře a co je mezi řádky."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:17:17",
+        "ts_sortable": 1037,
+        "text": "Takže jak jednota, cituji, ruského impéria, tak status velmoci?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:17:25",
+        "ts_sortable": 1045,
+        "text": "Tak jsem to četl já."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:17:27",
+        "ts_sortable": 1047,
+        "text": "Napsal jste knihu Původ slovanských národů. Pojďme se tedy vrátit do historie. Jaký je původ slovanských národů?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:17:37",
+        "ts_sortable": 1057,
+        "text": "Můžeme se na to podívat z různých úhlů pohledu a v současné době jsme dosáhli velkého průlomu v odpovědi na tuto otázku díky velmi zajímavé, inovativní lingvistické analýze, studiu DNA. To je tedy skutečně nová hranice. Dostáváme se do prehistorického období, kde neexistují žádné historické prameny."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:18:02",
+        "ts_sortable": 1082,
+        "text": "A z toho, co dnes chápeme, a to se samozřejmě může zítra změnit se všemi těmi vědeckými objevy, vyplývá, že Slované vznikli někde v oblasti Pripjaťských bažin, v severozápadní části Ukrajiny, jihozápadní části Běloruska a východní části Polska. A to je považováno za historickou vlast Slovanů. A pak se rozšířili a rozšířili se až k Jadranu. Takže máme Kurdy, máme Rusy, kteří se šíří až k Pacifiku. Máme Ukrajince, máme Bělorusy, Poláky. Kdysi jsme měli Čechoslováky, teď máme Čechy a Slováky. To je příběh, který začíná v osmém a devátém století, dokonce o něco dříve, ten příběh už můžeme sledovat pomocí písemných pramenů, většinou byzantských, později pak západoevropských."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:19:07",
+        "ts_sortable": 1147,
+        "text": "Ale to, o co jsem se snažil, nebylo vědeckou praxí, nebyl jsem odborníkem na lingvistiku ani na analýzu DNA, snažil jsem se zjistit, co se děje v myslích těchto národů, a zejména jejich elit. Kterým dnes neříkáme Slované, ale východní Slované, což znamená Rusové, Ukrajinci a Bělorusové. Jak si představovali sami sebe, jak si představovali svůj svět. A nakonec se podívám na takzvané národně-budovatelské projekty."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:19:41",
+        "ts_sortable": 1181,
+        "text": "Snažíme se tedy odpovědět na otázku, jak jsme se dostali do dnešní situace, kdy neexistují jen tři východoslovanské národy, ale také tři východoslovanské státy, ruský, ukrajinský a běloruský. Na to se zaměřuji ve své knize. A přiznávám, že v té konkrétní knize končím v osmnáctém století před érou nacionalismu. Ale pak jsou tu další knihy, například Ztracené království, kde jsem příběh dovedl až do dnešní doby."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:20:15",
+        "ts_sortable": 1215,
+        "text": "Které aspekty osmého a devátého století východoslovanských států pronikají do dnešní doby a které bychom měli pochopit?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:20:25",
+        "ts_sortable": 1225,
+        "text": "Nejdůležitější je, že existence státu Kyjevská Rus v období středověku vytvořila základy historické mytologie, běžné historické mytologie. A právě o to, kdo má na Kyjevskou Rus větší nebo větší právo, se vedou války a boje."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:20:48",
+        "ts_sortable": 1248,
+        "text": "Právní kodex, který byl tehdy vytvořen, existoval dlouhou dobu. Přijetí křesťanství z Byzance, to se stalo velkým problémem, který oddělil tehdejší východní Slovany od jejich západních sousedů, včetně Čechů a Poláků, ale spojil je v tomto směru s řekněme Bulhary nebo Srby. A počátek písemnictví, počínaje Kyjevem. Takže to všechno je považováno za součást dědictví, to všechno je zpochybňováno. A tyto debaty, které byly po dlouhou dobu akademické, což vidíme nyní, tragicky pokračují na bitevním poli."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:21:38",
+        "ts_sortable": 1298,
+        "text": "Co je Kyjev? Co je Rus, kterou jste zmínil? Jaký je jejich význam? Zmínil jste je jako určující místa a pojmy, označení, na začátku toho všeho, takže co je Kyjev?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:21:54",
+        "ts_sortable": 1314,
+        "text": "Kyjev se stal hlavním městem nebo výspou Vikingů, kteří se snažili získat kontrolu nad obchodní cestou mezi dnešním západním Ruskem a Běloruskem a severní Ukrajinou, tedy lesními oblastmi. A největší a nejbohatší trh na světě, který v té době existoval, což byla Konstantinopol, Byzanc."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:22:27",
+        "ts_sortable": 1347,
+        "text": "Šlo o to získat jakékoli zboží, které se v této části východní Evropy dá sehnat, a většinu tohoto zboží tvořili otroci, místní obyvatelstvo. Naložit je na lodě v Kyjevě, protože Kyjev byl na hranici se stepními oblastmi. Stepní zóny ovládaly jiné skupiny, Skythové, Sarmaté, Polovci, Pečenězi a tak dále, a na to si vzpomeňte. A pak zůstávali na řece, byli chráněni před útoky kočovníků, aby mohli přijít k Černému moři a prodávat tyto výrobky v Konstantinopoli. To byla ta myšlenka, to byl ten model."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:23:11",
+        "ts_sortable": 1391,
+        "text": "Vikingové se pokoušeli praktikovat tento druh obchodního modelu i v jiných částech Evropy a stejně jako v jiných částech Evropy se ukázalo, že jsou standardně tvůrci nové politiky, nových států. A to byl příběh první kyjevské dynastie a Kyjeva jako hlavního města této obrovské říše, která sahala od Pobaltí až po dnešní střední Ukrajinu a pak se snažila dostat přes jižní Ukrajinu k Černému moři, což bylo hlavní, velké evropské státní království, chcete-li to tak nazvat, středověké Evropy. Vytvářelo spoustu tradic z hlediska dynastie, z hlediska jazyka, z hlediska náboženství, z hlediska, opět, historické mytologie. Kyjev je tedy ústředním bodem pro národotvorný mýtus řady skupin v regionu."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:24:20",
+        "ts_sortable": 1460,
+        "text": "Z jednoho úhlu pohledu a z jednoho vyprávění je Kyjev centrem této ruské říše. Ve kterém okamžiku se do popředí dostává Moskva jako centrum ruské říše?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:24:36",
+        "ts_sortable": 1476,
+        "text": "Ruské impérium je pojem a skutečně vznikl v 18. století. To, co máme pro Kyjev, říkáme tomu Kyjevská Rus, opět je to termín devatenáctého století, oni si říkají Rus."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:24:49",
+        "ts_sortable": 1489,
+        "text": "Rus."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:24:51",
+        "ts_sortable": 1491,
+        "text": "Existovala metropolie ruská a ruská knížectví. Takže je velmi důležité mít na paměti, že Rus není Rusko, protože to byl vlastní název pro všechny početné skupiny na tomto území. A Moskva neexistuje v době, kdy vzniká Kyjev jako hlavní město. První zmínka o Moskvě pochází z dvanáctého století, kdy ji založil jeden z kyjevských knížat."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:25:25",
+        "ts_sortable": 1525,
+        "text": "A Moskva se dostává do popředí skutečně ve zcela jiném kontextu a s úplně jiným impériem, které v regionu vládne. Příběh Moskvy a jejího vzestupu, to je příběh mongolské nadvlády nad bývalými ruskými zeměmi a bývalými ruskými územími. Část bývalé Rusi nakonec svrhne mongolskou nadvládu s pomocí malé skupiny lidí zvané Litevci, která měla mladý stát a mladou dynastii, a sjednotí tyto země, které byly většinou v dnešním pojetí ukrajinské a běloruské. Tak se brzy oddělily. A to, co je dnešní Rusko, hlavně západní Rusko, střední Rusko, zůstává pod mongolskou kontrolou až do konce 15. století."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:26:22",
+        "ts_sortable": 1582,
+        "text": "A právě to se stalo, když Moskva povstala jako nové hlavní město této říše a nahradila tak město Vladimir. Pro ty, kteří někdy jeli do Ruska, znají samozřejmě Vladimir jako místo nejstarších architektonických památek, takzvaný Zlatý prsten Ruska, a tak dále a tak dále. Vladimir je centrální město a bylo tam tolik architektonických památek, protože než byla Moskva, byl Vladimir. Nakonec v tom boji o ovládnutí území, v boji o přízeň Mongolů a tatarské hordy se Moskva objevuje jako centrum té konkrétní říše pod Mongoly."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:27:15",
+        "ts_sortable": 1635,
+        "text": "Po odstranění mongolské nadvlády se Moskva pouští do projektu, který historici, ruští historikové 19. století, nazývají \"shromažďování ruských zemí\". Používá nyní ruský výraz pro Rus a snaží se získat zpět země bývalé Kyjevské Rusi, ale také země bývalé mongolské říše. Rusové se dostanou k Tichému oceánu dříve, než se historicky dostanou ke Kyjevu, a skutečně se jedná o, cituji, necituji, \"shromažďování,\" cituji, necituji, \"ruských zemí\". Jako teprve v roce tisíc devět set čtyřicet pět, kdy Sovětský svaz šikanuje československou vládu, aby předala dnešní Zakarpatskou Ukrajinu Sovětskému svazu. Je začleněna do Ukrajinské sovětské socialistické republiky."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:28:17",
+        "ts_sortable": 1697,
+        "text": "A právě tehdy se tento osud, tak jak si ho představoval ruský historik 19. století, nakonec naplnil. Moskva měla pod kontrolou všechny tyto země."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:28:30",
+        "ts_sortable": 1710,
+        "text": "Do jaké míry jsou Slované jedním národem, a to je téma, které bude, myslím, pokračovat po celou dobu, a do jaké míry jsou souborem více národů? Ať už mluvíme o Kyjevské Rusi, nebo o pojetí ruského impéria v devatenáctém století."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:28:49",
+        "ts_sortable": 1729,
+        "text": "Na to se dá dívat různými způsoby. Jedním z nich, tím nejzřetelnějším a nejjasnějším, je jazyk. A není pochyb o tom, že Poláci mluví jiným jazykem než Slované. A není pochyb o tom, že každý, kdo jede na Ukrajinu a tady ukrajinsky, si uvědomí, že to není ruština. Úroveň porozumění může být různá, některým slovům rozumíte a jiným ne. A stejné by to bylo s polštinou a stejné by to bylo s češtinou."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:29:27",
+        "ts_sortable": 1767,
+        "text": "Existuje tedy společná jazyková historie, ale jazyky velmi jasně ukazují, že se jedná o různé národy. Víme, že jazyk není všechno. Američané mluví určitým způsobem angličtiny, Australané mluví určitou variantou angličtiny. Ale z důvodů geografických, historických se do značné míry domníváme, že navzdory jazykové jednotě se jedná o různé národy a různé národy. A některé části politické tradice mají více společného, jiné jsou zcela odlišné."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:30:12",
+        "ts_sortable": 1812,
+        "text": "Totéž, pokud jde o jazyk, totéž, pokud jde o politickou tradici, o loajalitu k politickému zřízení, platí i pro slovanské národy. Opět platí, že v tomto ohledu nejsou Slované ničím zvlášť výjimeční."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:30:30",
+        "ts_sortable": 1830,
+        "text": "Napsal jste knihu Kozácký mýtus: dějiny a národnost ve věku impérií. Vypráví příběh anonymního rukopisu nazvaného Dějiny Rusi. Začal se šířit v roce tisíc osm set dvacet. Byl bych rád, kdybyste mi mohli vyprávět jeho příběh. Je to údajně jeden z nejvlivnějších textů v dějinách, v moderních dějinách. Jaký je tedy význam tohoto textu? Co obsahoval? Jak určil budoucnost regionu?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:30:56",
+        "ts_sortable": 1856,
+        "text": "V prvních desetiletích 19. století, po napoleonských válkách, se objevil záhadný text, připisovaný dávno mrtvému pravoslavnému arcibiskupovi, který tvrdil, že ukrajinští kozáci jsou vlastně původními Rusy a že mají právo na zvláštní místo, na ústřední místo v Ruské říši. A vypráví o historii kozáků. Je to éra romantismu, plná nejrůznějších dramat, jsou tam hrdinové, jsou tam padouši."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:31:41",
+        "ts_sortable": 1901,
+        "text": "Text zaujal i některé klíčové postavy ruské intelektuální elity v Petrohradě, například Kondratije Rylejeva, který byl popraven za účast v povstání tisíc osm set dvacet pět. Na základě tohoto textu píše básně. Pozornost mu věnuje i Puškin. A pak přichází klíčová postava ukrajinského národního obrození, ukrajinského národního projektu devatenáctého století, Taras Ševčenko, a čte ho také, a všichni ho čtou velmi odlišně. Nakonec na začátku poloviny dvacátého století někteří ruští, většinou nacionalističtí spisovatelé, nazývají tento text Koránem ukrajinského nacionalismu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:32:47",
+        "ts_sortable": 1967,
+        "text": "Co je tedy k dispozici? Ten příběh, ten je velmi důležitý v tom smyslu, že to, co se autoři, a to tvrdím v té knize, to, co se autoři toho textu snažili říct, se snažili říct, že kozácká elita by měla mít stejná práva jako ruská šlechta. A přináší dlouhé historické záznamy, které dokazují, jak chladní byli kozáci v průběhu času."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:33:17",
+        "ts_sortable": 1997,
+        "text": "Ale na počátku 19. století už tento nárok vznášejí, používají nové argumenty, a ty se týkají národa a nacionalismu. A říkají, že kozáci jsou samostatný národ, a to je velké, velké, velké tvrzení. Ruské impérium, a to je velmi, velmi dobrý argument v historiografii, že ruské impérium se rozrostlo a získalo tuto jednu/šestinu země pomocí jednoho velmi specifického způsobu integrace těchto zemí. Integrovalo elity. Uzavíralo dohody s elitami. Ať už byly jejich elity muslimské, nebo římskokatolické, jako v případě Poláků."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:34:00",
+        "ts_sortable": 2040,
+        "text": "... byli římští katolíci, jako v případě Poláků. Elity by se integrovaly a říše byla založena na státní loajalitě a státní integraci. Ale jakmile do toho vnesete faktor národa a nacionalismu a jazyka, tak se celý model integrace elit bez ohledu na jejich jazyk, náboženství a kulturu začne najednou hroutit. A Poláci byli první, kdo skutečně vytvořil tento druh výzvy ruskému impériu, a to dvěma povstáními v devatenáctém století. A Ukrajinci pak šli v jejich stopách."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:34:51",
+        "ts_sortable": 2091,
+        "text": "Význam této daně tedy spočívá v tom, že si na ni činil nárok určitý stav, kozácká důstojnická třída, která spočívala v tom, že impérium mohlo přežít. Ale proměnilo to, vzhledem k dobovým podmínkám, v nárok na zvláštní roli kozáků jako národa, vytvoření toho, že je to samostatný národ, ruský národ. A to je výzva nacionalismu, že žádné impérium skutečně nepřežilo, a ruské impérium nebylo výjimkou. Dochází tedy ke zlomu, kdy diskurz přechází od loajality založené na integraci elit k loajalitě založené na náklonnosti ke svému národu, ke svému jazyku, ke své kultuře a ke své historii."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:35:42",
+        "ts_sortable": 2142,
+        "text": "To byla první jiskra, plamen, který vedl k nacionalistickému hnutí."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:35:50",
+        "ts_sortable": 2150,
+        "text": "To byl začátek a počátek, který stavěl most mezi existencí kozáckého státu v sedmnáctém a osmnáctém století, který sloužil jako základ kozácké mytologie, ukrajinské národní mytologie, přešel do ukrajinské hymny, a novou dobou a novou etapou, kde už kozáci nebyli, ať už to byli profesoři, intelektuálové, studenti, členové národních a organizací. A začalo to samozřejmě romantickou poezií, začalo to sebraným folklorem, a pak, později přechází do politické etapy, a nakonec do etapy masové politiky."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:36:33",
+        "ts_sortable": 2193,
+        "text": "Takže pro vás, dokonce i ve dvacátém století za Stalina byla na Ukrajině vždycky síla, která chtěla, aby byla nezávislá."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:36:43",
+        "ts_sortable": 2203,
+        "text": "Ve dvacátém století se Ukrajina pětkrát pokusila vyhlásit a udržet si nezávislost. V roce tisíc devět set devadesát jedna se to podařilo pouze jednou, ale předtím se někdy uskutečnily čtyři různé pokusy. A vidíte, že ukrajinská národní identita se projevuje dvěma různými způsoby, v podobě národního komunismu po vítězství bolševiků na Ukrajině ovládané bolševiky a v podobě radikálního nacionalismu v částech Ukrajiny, které byly ovládány Polskem a Rumunskem a část byla také ovládána Československem a později Maďarskem. Takže v těchto částech mimo Sovětský svaz se formou národní mobilizace, klíčovou formou národní mobilizace, stal radikální nacionalismus. Na sovětské Ukrajině to byl národní komunismus, který se vrátil v roce tisíc devět set šedesát a tisíc devět set sedmdesát. A pak, v roce tisíc devět set devadesát jedna, byla většina poslanců ukrajinského parlamentu, kteří hlasovali pro nezávislost, členy komunistické strany. Takže ten duch na určité úrovni nikdy nezemřel."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:38:08",
+        "ts_sortable": 2288,
+        "text": "Existuje tedy národní komunismus a radikální nacionalismus. Dovolte mi, abych se vás zeptal na radikální nacionalismus, protože to je téma, které se dnes objevuje v diskusi o válce na Ukrajině. Můžete mi říct něco o Stepanu Banderovi? Kdo to byl, tento kontroverzní krajně pravicový ukrajinský revolucionář?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:38:31",
+        "ts_sortable": 2311,
+        "text": "V [neslyšitelné nula:třicet osm:třicet dva] jsou uvedeni dva Stepanové Banderasové. Jeden je skutečná osoba a druhý je mytologie, která se s tímto jménem skutečně pojí. A ta skutečná osoba byl mladý student, nacionalisticky orientovaný student, na přelomu tisíce devíti set dvacátých a tisíce devíti set třicátých let v části Ukrajiny, kterou ovládalo Polsko, který patřil ke generaci, jež litovala, že se nenarodila včas pro velké boje první světové války a tehdejší revoluce. Věřili, že jejich otcové ztratili příležitost, aby se Ukrajina osamostatnila, a že je zapotřebí nové ideologie, a tou ideologií byl radikální nacionalismus a nová taktika."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:39:25",
+        "ts_sortable": 2365,
+        "text": "Bandera se tak v mladém věku stává vůdcem organizace ukrajinských nacionalistů na Ukrajině a organizuje řadu atentátů na polské úředníky nebo členy ukrajinské komunity, které tito mladí lidé ve svých sedmnácti, osmnácti, devatenácti letech považovali za kolaboranty. Je zatčen, postaven před soud, a právě tady začíná vznikat mýtus Bandery, protože využívá soudního procesu k prohlášením o ukrajinském nacionalismu, radikálním nacionalismu a jeho cílech, a najednou se stává hrdinou mezi tehdejší ukrajinskou mládeží. Je odsouzen k trestu smrti. Když tedy pronáší svůj projev, ví, že by pravděpodobně brzy zemřel, a pak se tak stalo, rozsudek byl změněn na doživotí."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:40:37",
+        "ts_sortable": 2437,
+        "text": "Pak se odehraje druhá světová válka. Polský stát se hroutí pod tlakem nacistického Německa a Sovětského svazu. Bandera odchází a předsedá aktu rozdělení organizace ukrajinských nacionalistů na dvě skupiny. Ta nejradikálnější se nazývá Revoluční, říkají si Revoluční, vede ji Bandera. Ti v té době spolupracovali s nacistickým Německem s nadějí, že jim nacistické Německo dodá nezávislou Ukrajinu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:41:17",
+        "ts_sortable": 2477,
+        "text": "První dny německého útoku, nacistický útok na Sovětský svaz, jednotky zformované na základě Organizace ukrajinských nacionalistů pochodují do města Lvov a vyhlašují ukrajinskou nezávislost. To nebylo německými úřady schváleno. To nebylo v německých plánech. Takže zatkli Banderu, členy jeho rodiny, jeho bratry, členy vedení, vůdce organizace. A tak jeho dva bratři odjíždějí do Osvětimi a tam umírají. Do Sachsenhausenu byl poslán na většinu doby trvání války, do roku tisíc devět set čtyřicet čtyři, protože odmítl odvolat vyhlášení ukrajinské nezávislosti, což opět přispívá k dalšímu rozšíření jeho mytologie."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:42:11",
+        "ts_sortable": 2531,
+        "text": "Po válce se už na Ukrajinu nevrací. Žije v exilu v Mnichově. Takže mezi rokem tisíc devět set třicet a svou smrtí v roce tisíc devět set padesát devět strávil na Ukrajině možná až dva roky, možná o něco víc, ale většinu času byl buď v polském vězení, nebo v německém koncentračním táboře, nebo v exilu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:42:39",
+        "ts_sortable": 2559,
+        "text": "Banderovský mýtus však žil. A všichni členové Organizace ukrajinských nacionalistů a poté Ukrajinské povstalecké armády, kteří bojovali proti Sovětům až do začátku roku tisíc devět set padesát, se nazývali banderovci. Sovětské úřady je nazývaly banderovci. Tak je znalo i místní obyvatelstvo. Takže tam byl nějaký vzdálený vůdce, který tam sotva byl na místě, ale jehož jméno bylo spojeno s tímto hnutím za, skutečně, osvobození Ukrajiny v té době. Opět bitva, která se nezdařila."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:43:18",
+        "ts_sortable": 2598,
+        "text": "Skutečnost, že spolupracoval s nacisty, je pro něj příznačná. Z jednoho pohledu je mnohými považován za ukrajinského hrdinu, protože bojoval za nezávislost Ukrajiny. Z jiného pohledu, ve spojení s tím, že v jeho vidění světa je příchuť radikálního, revolučního extremismu, ta nálepka prostě zůstává, že je to fašista, že je to nacista. Do jaké míry je to pravda? Do jaké míry to tak není?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:43:51",
+        "ts_sortable": 2631,
+        "text": "Tuto nálepku jistě propaguje nejprve sovětská a poté ruská propaganda. Funguje to velmi dobře. Když se zaměříte na léta kolaborace, tak to byla stejná léta, kdy Josef Stalin spolupracoval s Hitlerem, že? Takže máme stejný důvod nazývat Stalina nacistickým kolaborantem, jako máme důvod nazývat Banderu nacistickým kolaborantem. Podíváme-li se na situaci v Tichomoří, v Indonésii a na dalších místech, vůdci, kteří spolupracovali s Japonci s myšlenkou prosazovat nezávislost svých zemí po pádu Japonska, se stali vůdci říše. Rozdíl s Banderou je tedy v tom, že on se nikdy nestane vůdcem, vůdcem impéria, a imunita, která s touto pozicí souvisí, se na něj rozhodně nevztahuje."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:44:53",
+        "ts_sortable": 2693,
+        "text": "Ale jsou tu i další části jeho života, které celou věc zpochybňují. Osudy jeho rodiny, jeho vlastní pobyt v německém koncentračním táboře rozhodně nezapadají do propagandistického jednostranného obrazu Bandery."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:45:13",
+        "ts_sortable": 2713,
+        "text": "Pokud jde o to, zda je hrdinou, to je velmi, velmi zajímavá otázka, protože na Ukrajině je dnes vnímán, ne všemi a pravděpodobně ne většinou, ale mnoha lidmi na Ukrajině, jako symbol boje proti Sovětskému svazu a potažmo proti Rusku a ruské okupaci. Takže jeho popularita vzrostla po únoru dvacet čtyři, dva tisíce dvacet dva jako symbolu toho odporu. Opět zde hovoříme o mýtu a mytologii, protože Bandera nevedl boj proti sovětské okupaci na Ukrajině, protože v té době na Ukrajině prostě nebyl. Byl v Německu. A dovedete si představit, že na geografii tehdy záleželo mnohem více než dnes."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:46:08",
+        "ts_sortable": 2768,
+        "text": "Je tu milion otázek, které je třeba položit. Myslím, že je to důležité téma, protože je v centru tvrzeného důvodu, proč válka na Ukrajině pokračuje. Rád bych to tedy prozkoumal z různých úhlů pohledu. Ale abychom si to ujasnili, existoval okamžik, kdy Bandera dal přednost nacistickému Německu před Rudou armádou, když už válka začala? Je tedy v seznamu věrnosti nezávislost Ukrajiny v podstatě důležitější než boj proti nacistickému Německu?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:46:43",
+        "ts_sortable": 2803,
+        "text": "Jejich cílem byla ukrajinská nezávislost a oni tam chtěli spolupracovat s každým, kdo by ji nějakým způsobem podpořil nebo alespoň umožnil. Takže není pochyb o tom, že jsou to prostě klasičtí nacionalisté. Takže cílem je, nacionalismus je princip, podle kterého, nebo aspoň jedna definice je, podle které se kulturní hranice shodují s politickými hranicemi. Takže jejich cílem bylo vytvořit politické hranice, které by se shodovaly s hranicemi geografickými v podmínkách druhé světové války, a určitě uzavírat dohody s kýmkoli, kdo by buď podporoval, jak jsem řekl, nebo toleroval tento jejich projekt."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:47:39",
+        "ts_sortable": 2859,
+        "text": "Takže bych rád našel hranici mezi nacionalismem, dokonce extrémním nacionalismem, a fašismem a nacismem. Takže pro banderovce, mýtus, banderovce, podívejme se na některé ideologie nacismu. Do jaké míry nenáviděl Židy? Byl antisemita?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:48:01",
+        "ts_sortable": 2881,
+        "text": "V podstatě víme, že v jeho okruhu byli lidé, kteří byli antisemity v tom smyslu, že, dobře, máme ty texty, že? Víme to. Nemáme takové informace o, nebo takový text, nebo takový důkaz, pokud jde o samotného Banderu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:48:24",
+        "ts_sortable": 2904,
+        "text": "Pokud jde o fašismus, je zcela zřejmé, že zejména italský fašismus měl vliv na myšlení lidí v této organizaci, včetně lidí ve vedení. Je však také velmi důležité mít na paměti, že oni sami sebe nazývají nacionalisty a revolucionáři. A přestože v roce tisíc devět set třicet devět a tisíc devět set čtyřicet a tisíc devět set čtyřicet jedna pro ně bylo velmi výhodné prohlásit se za ukrajinské fašisty a navázat toto pouto nejen s Itálií, ale i s nacistickým Německem. Oni to odmítli udělat. A pak si vzpomněli na svou nezávislost. Takže vlivy ano, ale je jasné, že je to jiný typ politického projektu."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:49:30",
+        "ts_sortable": 2970,
+        "text": "Přesunu se tedy rychle do budoucnosti a podívám se, do jaké míry tento mýtus proniká. Má Ukrajina problém s neonacisty?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:49:38",
+        "ts_sortable": 2978,
+        "text": "Mám za to, že na Ukrajině jsou nacisté a příznivci teorií nadřazenosti bílé rasy, ale také mám za to, že jsou velmi okrajoví a že jsou okrajovější než stejné skupiny ve střední Evropě a možná i v USA. A pro mě není otázkou, jestli to Ukrajina má, ale proč i v podmínkách války je radikální nacionalismus a extremismus a nadřazenost bílé rasy tak marginální silou, když v zemích, které nejsou ve válce, se podíváte na Francii, podíváte se na, opět, nejsou to zrovna nacisté, ale opravdu pravicová radikální pravice nabývá takového významu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:50:50",
+        "ts_sortable": 3050,
+        "text": "Proč je Ukrajina v podmínkách války zemí, která řídí vztahy mezi různými etnickými skupinami a jazyky způsobem, který posiluje politický národ? Pro mě jako vědce a badatele je tedy podstatné, že na Ukrajině je vliv krajní pravice v různých variantách mnohem menší než u některých sousedů Ukrajiny a v Evropě obecně. A otázka je proč. To nevím. Mám své domněnky. Odpověď neznám. Ale to je otázka, na kterou si myslím, že je zajímavé odpovědět, jak to, že Ukrajina skončila jako jediná země na světě, mimo Izraele, která má židovského prezidenta, který je, alespoň podle mého chápání, nejpopulárnějším prezidentem v historii, z hlediska toho, jak jde jeho popularita po volbách. Takže to jsou opravdu, z mého pohledu zajímavé otázky a zase o tom můžeme určitě debatovat."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:52:00",
+        "ts_sortable": 3120,
+        "text": "Takže jen pro kontext, nejpopulárnější krajně pravicová strana, jedna nula.jedna5% hlasů v 2zeroone9. To je před válkou. Takže takhle vypadala situace. Není jasné, jak jsou na tom nyní. Byla by zajímavá otázka, jestli se to vyhrotilo a jak moc. To, co říkáte, je, že válka obecně může sloužit jako katalyzátor expanze extremistických skupin, zejména extremistických nacionalistických skupin, jako je krajní pravice. A je zajímavé sledovat, do jaké míry se ve stínu dostaly či nedostaly k moci."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:52:39",
+        "ts_sortable": 3159,
+        "text": "Žádná nacionalistická nebo národovecká strana tedy ve skutečnosti nepřekročila bariéru, aby se dostala do parlamentu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:52:45",
+        "ts_sortable": 3165,
+        "text": "Ukrajina je tedy zemí, kde v parlamentu není pravice ani krajní pravice. To nemůžeme říct o Německu, nemůžeme to říct o Francii, takže to je jen další způsob, jak zdůraznit toto jedinečné místo Ukrajiny v tomto smyslu. A rok dva tisíce devatenáct je už rokem války. Válka začala v roce dva tisíce čtrnáct anexí Krymu. Frontová linie se nacházela poblíž Donbasu. Tam bojovaly všechny ty skupiny. Takže Ukrajina, možná ne v takové míře jako teď, už byla na válečné půdě, a přesto pravicová strana nemohla získat víc než dvě procenta. Takže to je otázka, kterou mám na mysli."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:52:45",
+        "ts_sortable": 3165,
+        "text": "Jo."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:53:31",
+        "ts_sortable": 3211,
+        "text": "A ano, válka, historicky vzato, samozřejmě prosazuje a vytváří z nacionalističtějších názorů a sil, mění je z okrajových sil v ústřední. Mluvili jsme o Banderovi a mluvili jsme o Organizaci ukrajinských nacionalistů. Ti byli na Ukrajině v roce tisíc devět set třicet tou nejmarginálnější skupinou politického spektra, jakou si lze jen představit. Ale přichází druhá světová válka a oni se stávají tou nejcentrálnější skupinou, protože také byli, od začátku šli, měli organizaci, násilí bylo v podstatě jedním z jejich prostředků, uměli bojovat. Takže historicky války skutečně přinesly ty výsledky, takže my se díváme na Ukrajinu. Snažíme se zjistit, co se tam děje."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:54:25",
+        "ts_sortable": 3265,
+        "text": "Takže Vladimir Putin v rozhovoru s Tuckerem Carlsonem, ale i mnohokrát předtím, řekl, že současným cílem války na Ukrajině je denacifikace, že cílem války je denacifikace. Můžete vysvětlit tento koncept denacifikace, jak ho vidí Putin?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:54:45",
+        "ts_sortable": 3285,
+        "text": "Denacifikace je trop, který je poměrně dobře přijímán bývalým sovětským obyvatelstvem a zejména ruským obyvatelstvem. Nejsilnější sovětskou mytologií, která pak byla v podstatě předána jako součást dědictví Ruské federaci, byla druhá světová válka, byl boj proti fašismu. Takže jakmile použijete termíny \"fašismus\", \"nacista\" a \"denacifikace\", lidé najednou nejen začnou poslouchat, ale přestanou analyzovat. A jako nástroj propagandy je to samozřejmě velmi mocný nástroj. Pokud jde o to, do jaké míry je to skutečný cíl, nebo ne, diskutovali jsme o významu krajní pravice v Evropě a na Ukrajině. Takže pokud je to pravděpodobně skutečný cíl války, tak by ta válka musela začít ne proti Ukrajině, ale pravděpodobně proti Francii nebo nějaké jiné zemi, pokud to berete za bernou minci."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:55:48",
+        "ts_sortable": 3348,
+        "text": "No, je tu něco opravdu zajímavého, jak jste zmínil, protože jsem mluvil s mnoha lidmi v Rusku, a vy jste řekl, že analýza se zastaví. Na Západě se lidé dívají na slovo \"denacifikace\" a na věci, o kterých jsme právě mluvili, a skoro si myslí, že je to absurdní. Ale když mluvíte s lidmi v Rusku, možná je to někde hluboko uvnitř, historie druhé světové války se stále ozývá možná skrze obavy, možná hrdost, ať už je tam hluboká emocionální historie jakákoli, zdá se, že cíl denacifikace se zdá být pro lidi v Rusku rozumný. Zdá se, že v takovém slově denacifikace nevidí absurditu nebo složitost nebo dokonce potřebu analýzy, řekl bych."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:56:47",
+        "ts_sortable": 3407,
+        "text": "Řekl bych, že je to širší. Tohle je širší. Válka, která začala pod heslem, že Rusové a Ukrajinci jsou jeden a tentýž národ, a produkuje takovéto oběti, je opravdu v rozporu i s jakýmkoliv logickým uvažováním. Ale Rusko je místo, kde svobodný tisk už dlouho neexistuje. Rusko je místo, kde existuje do jisté míry komora ozvěny."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:57:22",
+        "ts_sortable": 3442,
+        "text": "A jak začala válka nejprve ve dva tisíce čtrnáct a pak úplně ve dva tisíce dvacet dva, tak jsem se setkal s tím, že spousta lidí v osobní rovině, ale i v mediálním zpravodajství, že opravdu nemohou najít společnou řeč se svými blízkými příbuznými v Rusku, lidé, kteří navštívili Ukrajinu, kteří vědí, že ji neovládají nacionalisté a neovládají ji nacisté, ale média kolem nich, sousedé kolem nich, lidé v jejich práci v podstatě říkají jedno a to samé. A my, jako lidé, obecně, ať už máme jakýkoliv původ, jsme velmi, velmi, naše mysl je opravdu, je poměrně snadné s ní manipulovat, a to do té míry, že ani rodinné vazby a dokonce ani rodinné vazby někdy nepomáhají udržet si tu schopnost myslet a analyzovat sám, podívat se na fakta."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "00:58:30",
+        "ts_sortable": 3510,
+        "text": "Putin tedy narážel na incident s Jaroslavem Hunkou v kanadském parlamentu v září dva tisíce dvacet tři. Tento muž je veteránem druhé světové války na ukrajinské straně a v kanadském parlamentu mu dvakrát tleskali vestoje, ale později zjistili, že byl členem SS. Můžete to tedy vysvětlit, co si o tom myslíte? Mělo to velký vliv na narativ, který se, myslím, šířil v celém regionu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "00:59:04",
+        "ts_sortable": 3544,
+        "text": "Ano. Za druhé světové války se stalo to, že jakmile Němcům začaly docházet pracovní síly, vytvořili skupiny cizinecké legie. Protože však tito lidé nebyli árijci, byli vytvořeni pro boj na bitevním poli. Protože to nebyli Árijci, nedalo se jim věřit. Byli tedy převedeni pod velení Jindřicha Himmlera, pod velení SS, a stali se známými jako jednotky SS Waffen. A jedna taková jednotka vznikla na Ukrajině, s velkými obtížemi, protože nacisté Slovany obecně nepovažovali za hodné ani takového druhu útvarů cizinecké legie. Ale udělali výjimku, protože ti lidé pocházeli z Haliče, která byla součástí Rakouska-Uherska, tedy součástí Rakouska, což znamená, že byli nějakým způsobem otevřeni blahodárnému vlivu germánské rasy, a nazvali divizi Galizien neboli Galicie. Část ukrajinské mládeže se k divizi přidala."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:00:29",
+        "ts_sortable": 3629,
+        "text": "Jedním z vysvětlení bylo, že se dívali na zkušenosti z první světové války a viděli, že jednotky, ukrajinské jednotky, v rakouské armádě tehdy hrály velmi důležitou roli v boji za nezávislost. Takže to je jedno z vysvětlení. Nemůžete použít jen jedno vysvětlení, abyste popsali motivace všech a každého jednotlivého člověka, který se tam přidal. Takže byli posláni na frontu. Během několika krátkých dnů byli poraženi Rudou armádou a pak ustupovali přes Slovensko, kde byli použiti k boji s tamním partyzánským hnutím, a nakonec se vzdali Britům. To je tedy celý příběh. Vy osobně možná chápete, jaké byly dobré motivace toho či onoho člověka, ale je to jedna z nejlepších, jedna z velmi tragických a nešťastných stránek ukrajinské historie. Nemůžete to ospravedlnit jako fenomén."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:01:43",
+        "ts_sortable": 3703,
+        "text": "Takže z tohoto pohledu oslava této zkušenosti, na rozdíl od pohledu na to, že, dobře, to se stalo, a my si přejeme, aby ti mladí muži, kteří byli idealističtí nebo se přidali k divizi z idealistických důvodů, měli lepší pochopení pro věci nebo se rozhodli jinak, ale rozhodně to nemůžete oslavovat. A jakmile se to stalo, tak se to samozřejmě stalo velkou propagandou, propagandistickým předmětem v současné válce. Mluvíme o deseti nula dvaceti nula lidech v divizi a mluvíme o dvou třech milionech Ukrajinců bojujících v Rudé armádě. A zase to není tak, že by Rudá armáda byla úplně bez viny na tom, jak se chovala v Prusku, v Německu a tak dále a tak dále. Ale je to v podstatě, je to, opět se vracíme k příběhu Banderovců. Takže je tu období kolaborace, a tím se ho propaganda snaží definovat, nebo je tu divize Galizien dvaceti nula lidí, a jaksi to znevažuje zkušenost dvou tří milionů lidí."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:03:01",
+        "ts_sortable": 3781,
+        "text": "Jen pro upřesnění, myslím si, že na straně kanadského parlamentu, na kanadské straně, došlo k chybě, že neprovedli průzkum, možná mě opravte, jestli se mýlím, ale podle mého chápání dělali jen hloupé povrchní politické věci. Zatleskejme, když se tam objeví Zelenskyj, zatleskejme ukrajinskému veteránovi, zatleskejme veteránovi z druhé světové války, a pak si najednou uvědomíte, no, že vlastně války jsou složité. Můžeme například mluvit o spoustě temných aspektů na všech stranách druhé světové války, o masovém znásilňování na konci druhé světové války Rudou armádou, když [neslyšitelně 1:03:40] Německo. Je v tom spousta opravdu temných složitostí na všech stranách."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:03:44",
+        "ts_sortable": 3824,
+        "text": "Takže by to mohla být příležitost prozkoumat temné složitosti, které někteří Ukrajinci v SS nebo Banderovci měli, ty složitosti tam byly, ale myslím, že nedělali složité věci. Dělali velmi povrchní potlesk. A my bychom měli tleskat veteránům, samozřejmě, ale v tom případě to dělali pro parádu, pro Zelenského a tak dále. Takže bychom si měli ujasnit, že ten potlesk nebyl vědomý, nebyl pro esesáky. Bylo to pro ukrajinské, bylo to pro veterány druhé světové války, ale propaganda, nebo alespoň interpretace z ruské strany, z jakékoliv strany, je taková, že tleskali plnému člověku, který stál před nimi, což nebyl jenom ukrajinský veterán, ale ukrajinský veterán, který bojoval za SS."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:04:36",
+        "ts_sortable": 3876,
+        "text": "Nemám žádné konkrétní poznatky, ale velmi bych se divil, kdyby byť jen jeden člověk v Parlamentu, myslím tím poslance, znal celý příběh. Byl bych velmi překvapen."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:04:50",
+        "ts_sortable": 3890,
+        "text": "Jo. Celý příběh této osoby a upřímně řečeno celý příběh Ukrajiny a Ruska za druhé světové války."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:04:58",
+        "ts_sortable": 3898,
+        "text": "Ano, ano."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:05:00",
+        "ts_sortable": 3900,
+        "text": "Přesto měla velkou sílu a skutečně podpořila narativ, že na Ukrajině existuje neonacistický a nacistický problém."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:05:09",
+        "ts_sortable": 3909,
+        "text": "To je narativ, který se šíří a který je obzvláště silný v Rusku. V Rusku je obzvláště silný vzhledem k tomu, že tam je opravdu atmosféra, která se vytváří, opravdu není příznivá pro jakoukoli nezávislou analýzu."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:05:32",
+        "ts_sortable": 3932,
+        "text": "No, zajímalo by mě, jaký je nejefektivnější způsob, jak na toto konkrétní tvrzení reagovat, protože by se dalo diskutovat o nacionalismu a extrémním nacionalismu a boji za nezávislost a o tom, zda to není, jak napsal Putin, \"jeden národ\", ale otázka, zda jsou na Ukrajině nacisté, se zdá být otázkou, kterou by bylo možné důkladně analyzovat pomocí dat."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:06:03",
+        "ts_sortable": 3963,
+        "text": "To se děje na akademické úrovni. Ale pokud jde o veřejnou reakci a veřejný diskurz, jedinou reakci, kterou vidím, je nesoustředit se na otázky, které klade a kladla propaganda, protože už z definice jste se stali obětí této propagandy, ale mluvit o tom mnohem šířeji a mluvit o různých aspektech, pokud je to druhá světová válka, o různých aspektech druhé světové války, pokud je to otázka krajní pravice na Ukrajině, mluvme o USA, mluvme o Rusku, mluvme o Francii, srovnávejme. To je jediný způsob, jak se vypořádat s propagandou, protože propaganda nemusí být nutně něco, co je naprostá lež. Může to být jen jeden faktor, který je vytržený z kontextu a je nafouknutý. A to je dost dobře možné."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:07:09",
+        "ts_sortable": 4029,
+        "text": "A způsob, jak se proti tomu bránit, je uvést kontext. Pohybujme se ladně v průběhu dějin tam a zpět, zpět k Banderovi. Napsal jste knihu o špionovi KGB Bohdanu Stašinském. Můžete vyprávět jeho příběh?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:07:27",
+        "ts_sortable": 4047,
+        "text": "Jedná se o příběh historie Organizace ukrajinských nacionalistů a také Banderovců, a to již po skončení druhé světové války."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:07:37",
+        "ts_sortable": 4057,
+        "text": "Mm-hmm."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:07:38",
+        "ts_sortable": 4058,
+        "text": "Protože to, co máte po druhé světové válce, tak si představte květen tisíc devět set čtyřicet pět, Rudý prapor je po celém Riksdagu, Rudá armáda ovládá polovinu Evropy, ale jednotky Rudé armády stále bojují ve válce, a to nejen za sovětskými liniemi, ale i uvnitř hranic Sovětského svazu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:08:00",
+        "ts_sortable": 4080,
+        "text": "... za sovětskými liniemi, ale uvnitř hranic Sovětského svazu. A tato válka pokračuje až do počátku roku tisíc devět set padesát, téměř až do Stalinovy smrti."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:08:13",
+        "ts_sortable": 4093,
+        "text": "Válku vede Organizace ukrajinských nacionalistů, která disponuje ukrajinskou povstaleckou armádou, a vláda se snaží tento odpor potlačit. Takže v podstatě verbuje místní lidi, aby špehovali partyzány v podzemí, a Bohdan Stašinskij je jedním z nich. Jeho rodina podporuje odboj. Poskytují mu potraviny. Jeho sestra je zasnoubená s jedním z místních velitelů této podzemní jednotky a oni vědí všechno o rodině Stashynského a vědí všechno o něm, protože on také shromažďuje finanční prostředky pro podzemí. Mají s ním rozhovor, kde mu říkají: \"Dobře, tohle máme, a ty a tvoje rodina můžete jít do vězení, nebo nám trochu pomůžeš. Zajímá nás snoubenec tvé sestry a chceme ho dostat.\" A tak se to stalo. Stašinský souhlasí. Jakmile snoubence seberou, v podstatě zradil člena nebo skoro člena své rodiny, je s ním konec. Nemůže se vrátit do své vesnice, nemůže se vrátit do svých studií. V té době studoval v [neslyšitelný čas 1:09:39]. Jak píšu ve své knize, tajná policie se stává jeho rodinou."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:09:46",
+        "ts_sortable": 4186,
+        "text": "A je poslán do Kyjeva. Dva roky je cvičen, poslán do východního Německa, do Berlína, a stává se z něj nájemný vrah. Tak ho poslali přes hranice do západního Německa, do Mnichova. To bylo sídlo různých organizací, protisovětských organizací, ukrajinských a ruských a gruzínských a tak dále a tak dále. A on zabije dva vůdce organizace ukrajinských nacionalistů, jednoho redaktora novin a nakonec zabije i Banderu. Udělá to novou zbraní, sprejovou pistolí, která se nakonec dostane do bondovky Muž se zlatou pistolí. A celá ta epizoda je trochu přetvořená, ale není ve filmu, ale je v samotném románu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:10:51",
+        "ts_sortable": 4251,
+        "text": "Později pod vlivem své německé snoubenky a posléze manželky změní názor. Rozhodnou se utéct na Západ. A při tom zjistí, že jejich byt byl odposloucháván a pravděpodobně o tom všem ví KGB. Zkrátka a dobře, jeho syn v Berlíně umírá. KGB mu nedovolí tam jet, ale jeho žena se nervově zhroutí, tak mu dovolí tam jet, aby ji prostě uklidnil, aby z toho nebyl žádný skandál. A ve dvou, den před pohřbem syna, protože potom by je poslali do Moskvy. Skočili z lodi a jedou do Západního Berlína, dvě hodiny předtím, než se stavěla Berlínská zeď."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:11:55",
+        "ts_sortable": 4315,
+        "text": "Kdyby tedy zůstali na pohřbu, KGB by je pravděpodobně nepustila. Ale také kdyby zůstali, tak by tam byla hranice. A on jde za americkou rozvědkou a řekne: \"Dobře, takový jsem a tak jsem to udělal.\" A tak to bylo. A oni se na něj podívají a řeknou: \"My vám nevěříme. Nevíme, kdo jsi. Máte dokumenty na pět jmen. Říkáte, že jste zabil Banderu. No, my máme jiné informace. Byl otráven, a to pravděpodobně někým z jeho blízkého okolí. Sprejová pistole, četl jste moc Iana Fleminga? Odkud se to vzalo?\""
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:12:43",
+        "ts_sortable": 4363,
+        "text": "On na tom trvá, oni řekli: \"Dobře, trváte na tom. Jestli jste spáchal všechny ty zločiny, tak vás předají německé policii a německá policie vás bude vyšetřovat.\" A tak se stalo. A pak přijde soud, a když řekne, když vezme zpátky svou výpověď, tak se celý případ proti němu zhroutí. Může jít na svobodu. On ví, že když se dostane na svobodu, tak je terčem svých kolegů ze stejného oddělení. Takže jeho úkolem u soudu je dokázat, že je vinen, že to udělal."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:13:20",
+        "ts_sortable": 4400,
+        "text": "A pak zmizí a nikdo neví, kam jde. A vznikají různé krycí historky. A já měl to štěstí, že jsem mohl udělat rozhovor s velitelem, bývalým šéfem jihoafrické policie, který mi potvrdil, že Stašinský byl v Jihoafrické republice."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:13:41",
+        "ts_sortable": 4421,
+        "text": "Západoněmecká rozvědka se domnívala, že je pro něj pobyt v Německu příliš nebezpečný. Poslali ho pod jiným jménem do Jižní Afriky. To je tedy příběh samotného Stashynského. Ale když se vrátíme k Banderovi, tak samozřejmě to, že se přiznal a vyšlo najevo, že Banderu zavraždila KGB, to přispělo k obrazu a k obecné mytologii o Banderovi."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:13:41",
+        "ts_sortable": 4421,
+        "text": "Utekl."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:14:12",
+        "ts_sortable": 4452,
+        "text": "Fascinující příběh o tom, jak se z vesnického chlapce stal vrah, který zabil jednoho z nejvlivnějších revolucionářů v regionu dvacátého století. Jen zeširoka přiblížím KGB, jak mocná byla KGB? Jakou roli hrála v celém příběhu Sovětského svazu?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:14:34",
+        "ts_sortable": 4474,
+        "text": "Záleží na období. V době, kterou jsme právě popsali, tedy na přelomu padesátých a šedesátých let, nebyly vůbec silné. A to z toho důvodu, že lidé jako Chruščov se skutečně obávali, aby tajná policie nezískala příliš velkou moc. Příliš mocnou se podle nich stala za Stalina, za Beriji. A právě obavy z Berijovy moci jako šéfa tajné policie vedly k puči proti Berijovi, k nástupu Chruščova k moci a Berija byl zatčen a popraven. A to, co se Chruščov snažil udělat potom, byla snaha dát... Od roku padesát čtyři, to už se jmenovalo KGB, KGB pod jeho kontrolou. Takže jmenoval bývalé [neslyšitelný čas 1:15:33] vůdce jako šéfy KGB, takže lidi, kteří mu vlastně všechno patřili, takovou pozici. A šéfové KGB nebyli členy politbyra."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:15:49",
+        "ts_sortable": 4549,
+        "text": "To se změnilo v sedmdesátých letech s Andropovem, kdy KGB začala hrát opět velmi důležitou roli v sovětské historii. A řekněme, že rozhodnutí o Afghánistánu a o tom, že sovětská vojska napochodují do Afghánistánu, dělala kromě Brežněva trojice lidí, kteří by se dneska jmenovali [cizí jazyk jedna:šestnáct:patnáct] možná nebo ne všichni byli [cizí jazyk jedna:šestnáct:sedmnáct], ale jedním z nich byl samozřejmě Andropov, šéf KGB. Dalším byl ministr obrany, a pak tam byl tajemník, který měl na starosti vojensko-průmyslový komplex, ministerstvo zahraničí ministr zahraničních věcí."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:16:29",
+        "ts_sortable": 4589,
+        "text": "Ale šéfem KGB se skutečně stal nejen člen Politbyra, ale i člen tohoto vnitřního kruhu. A pak to, že na Andropov vystřídal Brežněva, je také projevem moci, kterou KGB získala skutečně po Chruščovovi v roce tisíc devět set sedmdesát a pak přešla do roku tisíc devět set osmdesát."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:16:53",
+        "ts_sortable": 4613,
+        "text": "Kdo byl mocnější, KGB nebo CIA v době Sovětského svazu?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:16:58",
+        "ts_sortable": 4618,
+        "text": "CIA, to je organizace, která má na starosti shromažďování informací a nejrůznější operace, včetně atentátů v padesátých a šedesátých letech v zahraničí. KGB byla organizace, která skutečně měla na starosti jak dohled nad obyvatelstvem v rámci Sovětského svazu, tak i operace v zahraničí. A její členové, její vedoucí představitelé byli členy vnitřního kruhu pro rozhodování. Znovu opakuji, že z toho, co vím o tom, jak funguje politika a rozhodování a jak se přijímají rozhodnutí ve Spojených státech, CIA, šéf CIA nepatří do skupiny, která rozhoduje a poskytuje informace. Ano, takže bych řekl, že to není den a noc, ale jejich moc, politický vliv, politický význam, se velmi liší."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:18:04",
+        "ts_sortable": 4684,
+        "text": "Je jasné, jak velká byla KGB? Jak byla rozšířená, vzhledem k jejímu utajenému a distribuovanému charakteru."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:18:13",
+        "ts_sortable": 4693,
+        "text": "Některé věci víme, jiné ne, protože archivy Stasi jsou otevřené a většina KGB, zejména v Moskvě, ne. Ale víme, že KGB kombinovala nejen vnitřní funkce jakési tajné policie doma a kontrarozvědné oddělení a zpravodajské oddělení v zahraničí, ale také například pohraniční jednotky."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:18:44",
+        "ts_sortable": 4724,
+        "text": "Takže z institucionálního hlediska to byl opravdu obrovský mamut. A další věc, kterou víme, že můžeme tak trochu extrapolovat z toho, co víme z archivů Stasi, že sledování doma, sledování bylo opravdu masivní. Hádám, že Sověti nebyli tak efektivní a tak pečliví a tak svědomití a tak metodičtí, jako byli pravděpodobně Němci. Ale to vám dává základní představu o tom, jak byla celá společnost proniknutá."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:19:21",
+        "ts_sortable": 4761,
+        "text": "Co je podle vás důležité pochopit o KGB, pokud chceme porozumět i Vladimiru Putinovi? Protože byl šestnáct let důstojníkem zahraniční rozvědky KGB."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:19:33",
+        "ts_sortable": 4773,
+        "text": "Z mého výzkumu, včetně toho o Stašinském, jsem pochopil, že v KGB, a to byla mocná organizace, opět méně mocná v padesátých a šedesátých letech, ale stále velmi mocná organizace. Tam bylo na jedné straně porozumění situaci v zemi a v zahraničí, které pravděpodobně jiné organizace neměly. Měli také první výběr, pokud jde o výběr a kádry. Práce v KGB byla dobře placená a považovaná za velmi prestižní. Takže to byla do jisté míry součást sovětské elity, pokud jde o to, koho rekrutovali. A měli odpor vůči stranickému vedení, které jim neumožňovalo dělat věci typu Jamese Bonda, které by chtěli dělat, protože to s sebou neslo politická rizika."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:20:31",
+        "ts_sortable": 4831,
+        "text": "Po tomto skandálu se Stašinským KGB alespoň na mnoha úrovních přestala s atentáty, politickými atentáty v zahraničí, protože to bylo považováno za politicky nesmírně, nesmírně nebezpečné. Člověk, který v době banderovského atentátu vedl KGB, Šelepin, byl jedním z kandidátů na Chruščovovo místo a Brežněv proti němu tento skandál v zahraničí nakonec využil k tomu, aby ho odvolal z politbyra."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:21:07",
+        "ts_sortable": 4867,
+        "text": "Takže KGB skutečně sledovala vedení strany jako do jisté míry efektivní korupčník a kdo je na cestě. A z toho, co jsem pochopil, přesně takové postoje přivedly lidi jako Putin a lidé z jeho okolí k moci v Kremlu. Takže metody, které používá KGB, mohou používat i teď a žádná strana ani jiná instituce jim v tom vlastně nebrání. A oni přemýšlejí, jak já tomu rozumím, o operacích v zahraničí o zahraniční politice obecně z hlediska myšlení KGB o plánování operací a provádění konkrétních operací a tak dále a tak dále. Myslím, že spousta kultury, která vznikla v sovětské KGB, se nyní stala součástí kultury ruského establishmentu."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:22:12",
+        "ts_sortable": 4932,
+        "text": "Napsal jste knihu Rusko-ukrajinská válka, návrat dějin, která uvádí všechny souvislosti vedoucí k ruské invazi na Ukrajinu v únoru dva tisíce dvaadvacátého roku. Můžete mě seznámit s klíčovými momenty v dějinách, které vedly k této válce? Zmíníme tedy rozpad Sovětského svazu. Asi bychom mohli jít mnohem dál do minulosti, ale rozpad Sovětského svazu zmínil dva tisíce čtrnáct. Možná byste mohl vyzdvihnout klíčové momenty, které vedly až do roku dva tisíce dvacet dva."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:22:54",
+        "ts_sortable": 4974,
+        "text": "Klíčovými okamžiky budou nejprve rok dva tisíce čtyři, známý jako Oranžová revoluce na Ukrajině, a poté rok dva tisíce třináct, známý jako Revoluce důstojnosti. V obou případech šlo o revolty proti něčemu, co značná část ukrajinského obyvatelstva považovala za zcela, ale zcela nepřijatelné jednání ze strany tehdejší vlády a lidí ve vládě. Oranžová revoluce z roku dva tisíce čtyři byla protestem proti zfalšovaným prezidentským volbám a odmítnutí kandidáta, který byl podporován Ruskem, veřejně podporován Ruskem. Vzpomínám si, že jsem byl v té době v Moskvě a nevěřil jsem svým očím, když jsem v centru Ruska uviděl billboard s Janukovyčem. Vtip byl v tom, že v Rusku a zejména v Moskvě bylo hodně Ukrajinců, kteří měli právo volit. A to vedlo k tomu, že byl zvolen ukrajinským prezidentem Viktor Juščenko, který dal na pořad dne otázku členství Ukrajiny v NATO. Byla to tedy velmi jasná prozápadní orientace. A druhým případem byla Revoluce důstojnosti dva tisíce třináct, s některými stejnými postavami včetně Janukovyče, který byl v té době již prezidentem Ukrajiny. A tam šlo o to, že vláda slíbila lidem minimálně na rok podepsat asociační dohodu s Evropskou unií, a pak téměř ze dne na den otočila a řekla, že to neudělá."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:24:54",
+        "ts_sortable": 5094,
+        "text": "A tak to začalo. Ale pak se staly opravdu masovými a důvodem, proč se z něčeho, co se jmenovalo Eurorevoluce, stala Revoluce důstojnosti, bylo, když vládní policie zmlátila studenty v centru Kyjeva, kteří se podle zpráv v podstatě už téměř chystali rozejít, téměř se chystali jít domů. A tehdy se v ulicích objevila zhruba polovina Kyjeva. Takovéto chování policie, takovéto chování bylo na Ukrajině naprosto nepřijatelné. Krádež voleb a falšování voleb nebylo nepřijatelné."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:25:45",
+        "ts_sortable": 5145,
+        "text": "V té době, někdy kolem roku dva tisíce čtyři, napsal tehdejší ukrajinský prezident Leonid Kučma knihu s názvem Ukrajina není Rusko. A podle všeho ten termín pochází z jeho diskuse s Putinem, kdy mu Putin poměrně důrazně navrhoval, aby použil sílu proti lidem [neslyšitelný čas 1:26:11] na náměstí v Kyjevě. A Kučma mu údajně řekl: \"Vy tomu nerozumíte. Ukrajina není Rusko. Takové věci nemůžete dělat. Odstrčí tě.\" A to je, tyhle dvě události, dva tisíce čtyři a pak 2one3 se staly opravdu klíčovým bodem z hlediska směřování Ukrajiny, přežití ukrajinské demokracie, která je jednou z mála zemí v postsovětském prostoru, kde demokracie přežila původní flirt mezi vládními představiteli a demokracií z roku tisíc devět set devadesát."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:26:54",
+        "ts_sortable": 5214,
+        "text": "V Rusku to byl starý sovětský příběh. Všude jinde byla velká demokratická očekávání, ale ta skončila na konci desetiletí. Ukrajina si zachovala demokracii a orientaci Ukrajiny na integraci v nějaké formě do západních a evropských struktur, ta ukrajinská demokracie plus orientace na Západ něco znamenala. A v Rusku vidíme posilování autokratického režimu pod Putinem, že když se podíváte hlouběji, tak to jsou procesy, které dostaly obě země na kolizní kurz."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:27:40",
+        "ts_sortable": 5260,
+        "text": "Na Ukrajině tedy dochází k rozdělení, přetlačování a tahu v otázce identity, zda jsou součástí Ruska, nebo Evropy. A vy jste zdůraznil dva momenty v ukrajinských dějinách, kdy došlo k velkému vzplanutí, kdy se nejprve prohlásilo, že Ukrajina není Rusko, a v podstatě je Ukrajina součástí Evropy, ale jsou i jiné momenty. Jaké byly rozhodující momenty, které zahájily skutečnou válku v [neslyšitelný čas 1:28:11]?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:28:11",
+        "ts_sortable": 5291,
+        "text": "Válka začala v únoru roku dva tisíce čtrnáct, bylo ruské převzetí Krymu vojenskou silou. Zeleným mužíkem se stal tzv. A velkou otázkou je proč, a je velmi důležité vrátit se do roku dva tisíce třináct a začátku protestů a příběhu podpisu asociační dohody Ukrajiny s Evropskou unií. Takže z toho, co dnes chápeme, ukrajinská vláda pod vedením prezidenta Janukovyče udělala tento sebevražedný ostrý obrat po roce slibování asociační dohody s tím, že řekla: \"Dobře, rozmysleli jsme si to pod tlakem Moskvy.\" A tak se stalo. A Moskva ten tlak vyvíjela z jednoho důvodu, alespoň podle mého názoru."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:29:09",
+        "ts_sortable": 5349,
+        "text": "Podpis asociační dohody Ukrajiny s Evropskou unií by znamenal, že Ukrajina nebude moci podepsat asociační dohodu s žádnou euroasijskou unií v jakékoli podobě, která se v té době připravovala. A pro Vladimira Putina, to byl začátek jeho, nebo část jeho třetího funkčního období, jedním z bodů jeho programu pro třetí funkční období byla skutečně konsolidace postsovětského prostoru a euroasijského prostoru, a ne členství v NATO, ne členství v Evropské unii. Ale asociační dohoda s Evropskou unií znamenala, že ten postsovětský prostor bude muset existovat pod kontrolou Moskvy, ale bez Ukrajiny, druhé největší postsovětské republiky. Republiky, na jejímž hlasování závisela další existence Sovětského svazu a jejíž hlasování v mnoha ohledech existenci Sovětského svazu ukončilo."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:30:17",
+        "ts_sortable": 5417,
+        "text": "To je tedy široce pojaté pozadí, ale jsou tu samozřejmě i osobnosti. Jsou tu také jejich přesvědčení, jejich výklady historie, a to vše se stalo součástí příběhu. Ale když se na to podíváte geopoliticky, tak asociační dohoda staví Ukrajinu mimo ruskou sféru vlivu. A reakcí byl pokus svrhnout vládu v Kyjevě, která se zjevně chystala tuto dohodu podepsat, převzít Krym a pomoci řešit spoustu problémů uvnitř samotného Ruska a zvýšit popularitu prezidenta."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:31:12",
+        "ts_sortable": 5472,
+        "text": "A určitě, určitě to fungovalo i v tomto směru. Jakmile Ukrajina, ještě po Krymu, pokračovala ve své cestě, tak dalším krokem začala takzvaná hybridní válka v Donbasu. Ale zase na rozdíl od Krymu, pokud vím, tak Rusko se na ovládnutí Donbasu moc netěšilo. Donbas vnímalo jako způsob, jak ovlivnit Ukrajinu, aby ji zastavilo před odklonem směrem na Západ."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:31:49",
+        "ts_sortable": 5509,
+        "text": "Možná mi můžete říct něco o Donbasu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:31:52",
+        "ts_sortable": 5512,
+        "text": "Zmínil jsem, že nacionalismus a princip nacionalismu je principem, podle něhož se politické hranice shodují s hranicemi etnickými a kulturními. A právě tak byly v devatenáctém a dvacátém století nakresleny mapy mnoha východoevropských zemí. Na základě tohoto principu byl Donbas, kde většinu tvořili počátkem dvacátého století Ukrajinci, považován za ukrajinský a byl uprostřed této revoluce a revolučních válek a občanských válek ukrajinskou vládou prohlášen za ukrajinský."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:32:36",
+        "ts_sortable": 5556,
+        "text": "Ale Donbas se stal místem, jedním z klíčových míst v ruském impériu rané industrializace, s jeho důlním průmyslem, s mytologickým průmyslem. Takže to znamenalo, že se tam shromažďovali lidé z jiných částí, ne z Ukrajiny, ale z jiných částí ruské říše. Tam byla pracovní místa. A tak na Donbas přijel Chruščov s rodinou. Brežněvova rodina trochu přestřelila. Dostali se do průmyslových podniků ve městě [neslyšitelný čas 1:33:13] místo, město, které se jmenovalo [neslyšitelný čas 1:33:16]."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:33:15",
+        "ts_sortable": 5595,
+        "text": "Byli to tedy ruští rolníci, kteří se do oblasti stěhovali za prací. Obyvatelstvo se stalo poměrně smíšeným. Ukrajinci stále tvořili většinu obyvatelstva, ale ne nutně ve městech a obcích. A kulturně se to místo v důsledku tohoto momentu stávalo stále více ruským. Kromě Krymu byl Donbas tou částí Ukrajiny, kde etničtí Rusové tvořili nejpočetnější skupinu. Nebyli sice většinoví, ale byli velmi, velmi velkou a významnou skupinou. Například ve městě Mariupol, které bylo v průběhu posledních dvou let téměř celé zničeno, tvořili etničtí Rusové přes čtyřicet procent obyvatelstva, že? Takže to není úplně součást Donbasu, ale dává vám to obecnou představu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:34:22",
+        "ts_sortable": 5662,
+        "text": "Příběh Donbasu a toho, co se nyní stalo, má mnoho rozměrů a toto etnické složení je jen jednou z jeho částí. Další velmi důležitou částí příběhu je ekonomika a Donbas je klasický rezavý pás. A víme, co se děje s městy, která byla součástí první nebo druhé vlny industrializace ve Spojených státech a celosvětově, víme o sociálních problémech, které v těchto místech existují. Donbas je tedy pravděpodobně nejdramatičtějším a nejtragičtějším případem imploze rezavého pásu. S doly, které už neprodukují takový ten... A za přijatelnou cenu. Uhlí, které produkovaly, je to, že lidé přicházejí o práci s tím, že politici hledají dotace na rozdíl od toho, aby se pokusili o velmi nepopulární, nepopulární opatření něco udělat a přivést své peníze a své investice do regionu. To vše se stalo součástí příběhu, který usnadnil Rusku, Ruské federaci, destabilizaci situace. Máme rozhovory s panem Girkinem, který říká, že to byl on, kdo jako první zmáčkl spoušť a vystřelil v té válce. Stal se ministrem obrany Doněcké lidové republiky. Když se podíváte na premiéra, je to další člověk s povolením k pobytu v Moskvě. Takže vidíte, že klíčové postavy na těchto pozicích na začátku a na počátku nejsou Rusové z Ukrajiny, ale jsou to Rusové z Ruska a Rusové z Moskvy úzce napojení na vládní strukturu a zpravodajskou strukturu a tak dále. Takže to je ten začátek na začátku, ale způsob, jakým to explodovalo, jakým to explodovalo, byla také kombinace ekonomických a etnokulturních a jazykových faktorů."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:36:43",
+        "ts_sortable": 5803,
+        "text": "Pro Putina je válka na Donbasu a dokonce i ve dvaadvacátém roce obrannou válkou proti tomu, co ukrajinská vláda provádí proti etnicky ruskému obyvatelstvu Donbasu. Dá se to tak říct, jak to popisuje?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:36:59",
+        "ts_sortable": 5819,
+        "text": "To, co vidíme, je určitě argument. To je určitě argument a záminka, protože to, co tam vidíme, je, že by nebyla a nebyla žádná nezávislá mobilizace ani na Krymu, na Krymu nebo na Donbasu, bez ruské přítomnosti. Bez ruské okupace de facto Krymu by nedošlo k... A nedošlo předtím, alespoň v předchozích pěti až šesti letech, k žádné masové mobilizaci Rusů. Na Donbase žádná taková mobilizace nebyla, než se tam objevil Girkin a další lidé s částmi vojenských jednotek. Takže je to záminka. Byl jste na Ukrajině."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:37:57",
+        "ts_sortable": 5877,
+        "text": "Mm-hmm."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:37:58",
+        "ts_sortable": 5878,
+        "text": "Víte, že ruština není na Ukrajině pronásledována. A pokud jste nebyli na Donbasu nebo na Krymu, těžko byste našli jedinou ukrajinskou školu. Ne že by vůbec neexistovaly, ale dalo by vám dost práce ji najít, nebo někdy dokonce slyšet ukrajinštinu mimo instituce nebo farmářský trh. Taková je realita. To je realita, která je jasná, která je vidět. Takže si představte, že v těchto podmínkách a kontextu někdo pronásleduje etnické Rusy nebo rusky mluvící. Za prvé, abyste něčemu takovému věřili, jedním z důležitých předpokladů je nikdy nevkročit na Ukrajinu."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:38:57",
+        "ts_sortable": 5937,
+        "text": "Měl bych zmínit, možná je to vhodná chvíle, když jsem cestoval na Ukrajinu, to je po začátku války, zmínil jste farmářský trh, což je legrační. V podstatě s každým člověkem, se kterým jsem mluvil, včetně vedení, jsme mluvili rusky. Pro mnohé z nich je ruština dokonce pohodlnější jazyk."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:39:21",
+        "ts_sortable": 5961,
+        "text": "A lidé, kteří mluvili ukrajinsky, jsou spíše ze západní části Ukrajiny a mladí lidé, kteří chtějí aktivistickým způsobem ukázat, že chtějí bojovat za nezávislost své země. Takže chápu, o co vám jde. Zajímalo by mě, jestli se chcete vyjádřit k jazyku a možná k budoucnosti jazyka na Ukrajině. Bude se budoucnost jazyka stabilizovat na ukrajinštině, nebo se vrátí ke svému tradičnímu základu, kterým je ruština?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:39:59",
+        "ts_sortable": 5999,
+        "text": "Velmi zhruba před začátkem války ve čtrnáctém roce můžeme mluvit o paritě mezi ruštinou a ukrajinštinou a také o tom, že, jak jste řekl, na západě je jasně dominantním jazykem ukrajinština a na ulicích, určitě na východě země, je dominantním jazykem ruština. A pak mezi tím pozastavit řadu těch přechodných oblastí. A Ukrajina, podle mých zkušeností, a já jsem navštívil spoustu zemí, ne všechny, a možná budu ještě překvapen, ale podle mých zkušeností je to jediná skutečně dvojjazyčná země, kterou jsem kdy navštívil. Dlouhou dobu jsem žil v Kanadě. Tam je Quebec a zbytek."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:40:54",
+        "ts_sortable": 6054,
+        "text": "A na Ukrajině můžete v kterékoli části země mluvit buď rusky, nebo ukrajinsky a bude vám rozuměno a bude vám odpovězeno v jiném jazyce s očekáváním, že vám bude rozumět. A pokud nerozumíte, znamená to, že nepocházíte z Ukrajiny. Taková je realita. Válka a ztráta Krymu a částečná ztráta Donbasu, jeho hlavních průmyslových oblastí, skutečně posunuly rovnováhu směrem k převážně ukrajinsky mluvícím regionům. A také to, co vidíte, a vy jste na to jasně poukázal, počínaje rokem dva tisíce čtrnáct, dokonce o něco dříve, si mladá generace vybírá ukrajinštinu jako znak své identity. A to začalo v roce dva tisíce čtrnáct, ale po roce dva tisíce dvacet dva máme dramatický, dramatický posun. A na..."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:42:00",
+        "ts_sortable": 6120,
+        "text": "... dva tisíce dvacet dva. A na anekdotické úrovni vám mohu říci, že mluvím s lidmi, kteří byli v té době v Černihově, to je východně od Krymu, v době ruské agrese a bombardování a tak dále a tak dále, kteří měli pasivní znalost ukrajinštiny, ale celý život mluvili rusky. A oni na mě mluvili ukrajinsky, a když jsem jim říkal: \"Dobře, proč to děláte? My se známe desítky let a ty jsi používal ruštinu.\" A já jsem se na to podíval. A on říkal: \"No, já nechci mít nic společného s lidmi, kteří nám to dělali.\" A on na to. Takže tam je velký, velký tlak samozřejmě s tou současnou válkou. Teď je otázka, jestli ta změna je něco, co zůstane, nebo ne. Jaká je budoucnost? Jazyková praxe je velmi, velmi konzervativní. A my v Harvardském ukrajinském výzkumném institutu máme projekt, který se jmenuje MAPA Digitální atlas Ukrajiny."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:43:05",
+        "ts_sortable": 6185,
+        "text": "A my jsme dokumentovali a mapovali různá data v čase. A všimli jsme si, že v době začátku války, kdy bylo ohrožení nejzřetelnější, došlo k prudkému nárůstu sebehodnocení lidí, kteří použili ukrajinštinu, v letech dva tisíce čtrnáct a dva tisíce patnáct. To je sebehodnocení, to neznamená, že lidé přesně dělají to, o čem se domnívají, že to mají dělat, a pak se to vrátí tam, kde to bylo v roce dva tisíce šestnáct a dva tisíce sedmnáct. Takže ta dynamika se může opakovat, ale vzhledem k tomu, jak dlouho ta válka trvá, jak velký má dopad, jak velký je to stres a že ta vlna budoucnosti je pravděpodobně spojená s mladšími lidmi, kteří přecházejí na Ukrajinu. Takže já bych si vsadil na to, že ukrajinština bude stoupat na významu."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:44:11",
+        "ts_sortable": 6251,
+        "text": "Blíží se únor roku dva tisíce dvacet dva, a tak je tu několik dalších klíčových momentů. Třeba o tom, že v červenci dva tisíce dvacet jedna Putin publikoval esej s názvem O historické jednotě Rusů a Ukrajinců. Můžete popsat myšlenky vyjádřené v tomto eseji?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:44:34",
+        "ts_sortable": 6274,
+        "text": "Tato myšlenka je velmi příhodně prezentována již v prvním odstavci, vlastně v prvních větách článku, kde Putin říká: \"Dlouho jsem říkal, že Rusové a Ukrajinci jsou jeden a tentýž národ, a tady je důkaz.\" Svou historickou argumentaci rozvíjí zřejmě s pomocí mnoha lidí ze svého okolí. A o tom, že Rusové a Ukrajinci jsou jeden a tentýž národ, začal mluvit rok před začátkem války v roce dva tisíce čtrnáct. Tedy v roce dva tisíce třináct byl spolu s patriarchou Kirillem na návštěvě v Kyjevě. A speciálně pro něj byla uspořádána konference v klášteře Kyjevské jeskyně, a tam to prohlásil. Skutečnost, že byl s patriarchou Kirillem, je velmi důležitým faktorem pro pochopení toho, odkud tato myšlenka pochází."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:45:40",
+        "ts_sortable": 6340,
+        "text": "To je myšlenka, která převládala v Ruském impériu devatenáctého a počátku dvacátého století, že Rusové, Ukrajinci a Bělorusové jsou ve skutečnosti velkorusové, malorusové a bělorusové a že tvoří jeden národ. Ano, existují určité dialektické rozdíly. Ano, Ukrajinci dobře zpívají, ano, vtipně tančí, ale celkově to nevadí."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:46:15",
+        "ts_sortable": 6375,
+        "text": "A tato myšlenka byla skutečně zničena, z větší části zničena revolucí v roce tisíc devět set sedmnáct. Protože to nebyla jenom sociální revoluce, tak jak je chápána v USA a ve velké části světa, ale byla to také revoluce národní, byla to revoluce v impériu, byla to revoluce v ruském impériu. A aby se tyto kousky impéria vrátily zpět do Sovětského svazu, museli bolševici udělat ústupky. A jedním z těchto ústupků bylo uznání existence Ukrajinců jako samostatného národa, Bělorusů jako samostatných národů, Rusů jako samostatných národů. Poskytnutí jim vlastního území s hranicemi, s institucemi a tak dále a tak dále."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:47:09",
+        "ts_sortable": 6429,
+        "text": "Jedna instituce však reformována nebyla, a to ruská pravoslavná církev. Protože jeden ze způsobů, jak se s ní bolševici vypořádali, byl ten, že nedokázali náboženství úplně vymýtit. Ale zastavili vývoj náboženství a myšlení a teologie na úrovni, jaká existovala před revolucí roku tisíc devět set sedmnáct. Takže Ruská pravoslavná církev z roku tisíc devět set sedmnáct byla Ruskou pravoslavnou církví i v roce tisíc devět set devadesát jedna a v roce dva tisíce třináct. Pokračování téže carské mantry o existenci jednoho velkého ruského národa, jednoho jednotného lidu. A když vidíte formování představ o národech, o zahraniční politice v Ruském impériu po roce tisíc devět set devadesát jedna, vracejí se do předbolševických dob."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:48:17",
+        "ts_sortable": 6497,
+        "text": "Ukrajinci to dělají také. Estonci to dělají také. Rozdíl je v tom, že když se Ukrajinci vrátí, vrátí se do doby před rokem tisíc devět set sedmnáct, měli své intelektuální otce a spisy v podstatě liberálního nacionalismu. Nebo se někdy vracejí k radikálnímu nacionalismu banderovců, což by nebylo před rokem tisíc devět set sedmnáct, ale před rokem tisíc devět set čtyřicet pět. Když Rusové jdou do předbolševické minulosti, hledají ideje, hledají inspiraci, hledají narativy, to, co tam najdou, je impérium, to, co tam najdou, jsou imperiální projekty. A to je jistě příběh Putinova tvrzení, to je příběh sporu. A na závěr argument, který tam předkládá, historický argument, vychází také téměř přímo z narativů konce devatenáctého a počátku dvacátého století. Takže nejen argumentace pochází z této doby, ale i argumentace pochází z této doby."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:49:24",
+        "ts_sortable": 6564,
+        "text": "Všechny tyto argumenty jsou však ve znamení impéria."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:49:29",
+        "ts_sortable": 6569,
+        "text": "Na jedné straně je to impérium, ale také imperiální chápání toho, co je ruský národ, které nepřipouští nezávislost jeho malých ruských a běloruských větví, údajných větví. Takže to, co vidíte, je pojetí velkého ruského národa, které je z konce devatenáctého a začátku dvacátého století. Impérium vidí nápis na zdi, že nacionalismus je na vzestupu, a snaží se přežít mobilizací nacionalismu největší skupiny v impériu, ona je shodou okolností ruská. Stalin je velkým propagátorem určité formy ruského nacionalismu, zejména během války a po válce. A svou kariéru začínal jako velmi nadějný gruzínský spisovatel, psal v gruzínštině. Takže to nedělá pro nějakou osobní spřízněnost nebo kulturní intelektuální kořeny v rámci ruského národa nebo ruského lidu. Dělá to pro úspěch svého sovětského a komunistického projektu. A musí získat na svou stranu největší etnickou skupinu, kterou jsou Rusové. Ale Stalin a Putin mají odlišné chápání toho, kdo jsou Rusové. Ukrajince a Bělorusy přijal už Stalin, jejich existence Putina sahá až do předstalinských a předleninských dob."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:51:05",
+        "ts_sortable": 6665,
+        "text": "Pokud tedy odhlédneme od historických souvislostí a možná i od geopolitického účelu psaní takového eseje a na esej úplně zapomeneme. Mám rodinu na Ukrajině a v Rusku. Znám spoustu lidí na Ukrajině a v Rusku. Zapomeňte na válku, zapomeňte na tohle všechno, všichni znějí stejně. Když jedu do Francie, znějí jinak než na Ukrajině a v Rusku. Když si rozložíte kulturní mapu světa, je tam prostě jiný rytmus a hudba a příchuť lidí. Snažím se říct, že se zdá, že kultury Ukrajiny a Ruska jsou si blízké. Jak to popsat? Uznáváme to a jak to zvyšuje napětí s národní nezávislostí?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:52:07",
+        "ts_sortable": 6727,
+        "text": "Především na východě Ukrajiny nebo ve velkých městech mluvilo mnoho lidí rusky. Obecně je to stejný jazyk. Navíc jsme naši diskusi začali tím, že jsme mluvili o Slovanech, takže jak ukrajinština, tak ruština jsou slovanské jazyky, takže i v tom je blízkost."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:52:33",
+        "ts_sortable": 6753,
+        "text": "K tomu přistupuje historie existence v Sovětském svazu a předtím po dlouhou dobu v jednom impériu. Takže před válkou vidíte spoustu ukrajinských zpěváků a bavičů vystupovat v Rusku a naopak. A životopis prezidenta Zelenského určitě zapadá i do tohoto konkrétního modelu, to vše hovoří o podobnostech. Ale tato podobnost také velmi často zastírá věci, které se v průběhu této války staly tak důležitými. A už jsem zmínil knihu ukrajinského prezidenta Kučmy s názvem Ukrajina není Rusko. Takže to je ten argument, že přestože si myslíte, že jsme stejní, tak se chováme jinak. A ukázalo se, že se chovají jinak. Máte Bolotnaju v Moskvě a policejní násilí, a tím to končí. Máte Majdan na Ukrajině a máte policejní násilí, a to je začátek, to není konec. Na historii skutečně záleží tak, že se někdy lidé mluvící stejným jazykem s různým přízvukem chovají velmi odlišně."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:54:02",
+        "ts_sortable": 6842,
+        "text": "Rusko a ruská identita se utvářely kolem státu a jen těžko si dokážou představit samy sebe mimo stát, který byl po většinu ruských dějin imperiální. Ukrajinský projekt vznikl jako vzpoura proti státu. Ukrajina vznikla z částí různých říší, což znamená, že na nich zanechaly různý kulturní dopad. A aby Ukrajinci zůstali pohromadě, autokratický režim zatím nefungoval. Je to jako s koloniemi Spojených států. Musíte najít společnou řeč, musíte spolu mluvit. A to se stalo součástí ukrajinské politické DNA. A to se stalo obrovským faktorem ve válce."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:54:54",
+        "ts_sortable": 6894,
+        "text": "A jen velmi málo lidí na Ukrajině věřilo tomu, co říkal Vladimir Putin, že Rusové a Ukrajinci jsou jeden a tentýž národ, ale většina věřila, že jsou to jistě kulturně a historicky blízké národy. A z tohoto pohledu se bombardování ukrajinských měst stalo pro Ukrajince takovým šokem. Protože v hloubi duše se možná dívali na Sýrii, dívali se na Čečensko a vysvětlovali si to tím, že v podstatě mezi Rusy a těmi zeměmi a národy je taková velká kulturní propast a rozdíl. Ale podle mého chápání aspoň většina z nich měla problém si představit válku takových rozměrů a takové krutosti a přivodit takové válečné zločiny a na takové úrovni."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:55:55",
+        "ts_sortable": 6955,
+        "text": "Je zajímavé, že to říkáte v souvislosti s DNA Ukrajiny a Ruska. Možná je tedy Rusko příznivější pro autoritářské režimy a Ukrajina je příznivější pro to, aby se vymezovala vůči autoritářským režimům."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:56:18",
+        "ts_sortable": 6978,
+        "text": "Rozhodně vzpourou, a tak to bylo před rokem tisíc devět set devadesát jedna. Takže to, co vidíte od roku tisíc devět set devadesát jedna a co vidíte dnes, je, řekl bych, nový faktor, rozhodně v ukrajinské moderní historii. Protože Ukrajinci byli tradičně velmi úspěšní povstalci. Největší rolnickou armádou v občanské válce v Ruské říši byla Machnova armáda na jižní Ukrajině. A jedna vzpoura, kozácké vzpoury a další vzpoury, jedna za druhou. Ale Ukrajinci měli historicky problém vlastně udržet svobodu, kterou získali, měli problém se spojit se státem. A to, co vidíme, zejména v posledních dvou letech, to je zcela fenomenální vývoj na Ukrajině, kdy se Ukrajinci spojují se státem. Kdy Ukrajinci vnímají stát nejen jako cizí, jak tomu historicky bylo v ukrajinských dějinách."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:57:26",
+        "ts_sortable": 7046,
+        "text": "Nejen někoho, kdo si přišel vzít, ale i stát, který je jejich pokračováním, který jim pomáhá zajistit bezpečí. Že ukrajinské ozbrojené síly měly i před začátkem této války na Ukrajině největší podporu a popularitu. Stát dnes funguje neuvěřitelně efektivně při útocích a raketových útocích a proti městské správě a samosprávě. A pokud jde o Ukrajinu, jsme svědky velmi důležitého historického vývoje, kdy Ukrajinci poprvé za většinu své historie našli svůj stát a snaží se přejít od úspěšných rebelů k úspěšným manažerům a budovatelům státu."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "01:58:27",
+        "ts_sortable": 7107,
+        "text": "Nedávno jsem mluvil s Johnem Mearsheimerem, podle kterého má NATO velký podíl na ruské invazi na Ukrajinu ve dvaadvacátém roce. Jakou roli tedy hrálo NATO v celé této historii od Bukurešti ve dva tisíce osm až po dnešek?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "01:58:49",
+        "ts_sortable": 7129,
+        "text": "NATO bylo jistě velkou součástí ruského ospravedlnění války, to bylo téma, které se objevovalo v měsících předcházejících agresi. Pravdou je, že - a Vladimir Putin se o tom nechal slyšet - že mu západní představitelé opakovaně říkali, že Ukrajina nemá šanci stát se v dohledné době členem NATO. Rusko bylo velmi účinné už v roce dvaaosmdesát, když zastavilo Ukrajinu a Gruzii na cestě ke vstupu do NATO. V Bukurešti se konal summit, na němž tehdejší americký prezident George W. Bush prosazoval členství. A Putin přesvědčil vedoucí představitele Francie a Německa, aby toto členství zablokovali. A poté bylo členství Ukrajiny a Gruzie skutečně vyřazeno z reálného programu NATO. A právě to se snažili lídři západního světa v měsíci, který vedl k únorové agresi dva tisíce dvacet dva, sdělit Vladimiru Putinovi."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:00:19",
+        "ts_sortable": 7219,
+        "text": "Chtěl ultimátum, které ve skutečnosti nemělo zahájit jednání, ale zastavit je. Požadoval stažení NATO k hranicím tisíc devět set devadesát sedm, jestli se nepletu. Takže úplně něco, co by nepřijali ani vedoucí představitelé, ani členové země NATO. Ale pro mě je zcela jasné, že to byla záminka, že to bylo ospravedlnění."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:00:50",
+        "ts_sortable": 7250,
+        "text": "A to, co se stalo později v roce dva tisíce dvacet dva a dva tisíce dvacet tři, mě v tomto přesvědčení rozhodně utvrzuje. Finsko vstoupilo do NATO a Švédsko je na cestě do NATO. Takže vstup Finska do NATO zvýšil hranici mezi Ruskem a NATO, a to dvojnásobně, a pravděpodobně i více než to. Takže pokud je NATO skutečným zájmem, asi by nebylo úplně nerozumné očekávat, že když ne každý jednotlivý voják, tak alespoň polovina ruské armády bojující na Ukrajině bude přesunuta k ochraně nové hranice s NATO ve Finsku."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:01:38",
+        "ts_sortable": 7298,
+        "text": "Takže nepochybuji o tom, že nikdo v Kremlu ani v minulosti, ani dnes není příznivě naladěn na stěhování NATO nebo na cestu zemí východní Evropy do NATO. Ale jen velmi těžko si dovedu představit, že by to byla hlavní příčina války. A co vidíme, také jsme mluvili o Tuckerově rozhovoru, byl překvapen, ale věřil, že Putin byl naprosto upřímný, když prvních pětadvacet minut rozhovoru mluvil o vztazích mezi Ruskem a Ukrajinou, mluvil o historii. A to bylo také hlavní těžiště jeho eseje. Esej nebyla o NATO a Rusku, jeho esej byla o Rusku a Ukrajině. Takže tam jsou skutečné příčiny. Širším kontextem je pád impéria a proces rozpadu impéria, nikoliv příběh NATO."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:02:45",
+        "ts_sortable": 7365,
+        "text": "Co bylo objasnit důvod Putin, Rusko napadl Ukrajinu ve dva tisíce dvacet dva?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:02:53",
+        "ts_sortable": 7373,
+        "text": "Bezprostředním cílem v roce dva tisíce čtrnáct, kdy válka začala, bylo zastavit směřování Ukrajiny na západ a mimo ruskou sféru vlivu. Invaze v roce dva tisíce dvacet dva vnímala stejné cíle, tedy udržení Ukrajiny v ruské sféře vlivu. Jednou tu máme odpor, poměrně účinný odpor ze strany Ukrajiny, Rammstein a koalice, mezinárodní koalice na podporu Ukrajiny. Pak vidíme realizaci plánu B, kdy dochází k anexi částí ukrajinského území a jejich začlenění do ústavy Ruské federace. Tyto dva scénáře se tedy navzájem nevylučují, ale pokud scénář číslo jedna nevyjde, pak nastupuje scénář číslo dvě."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:03:57",
+        "ts_sortable": 7437,
+        "text": "V kapitole Brány Kyjeva píšete o Volodymyru Zelenském v prvních dnech války. Jaké momenty z této doby jsou pro vás nejdůležitější? První hodiny a dny invaze."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:04:13",
+        "ts_sortable": 7453,
+        "text": "První hodiny a první dny byly psychicky nejtěžší. Zbytek světa opravdu nečekal, že Kyjev vydrží déle než několik dní. Nečekal, že Ukrajina vydrží déle než několik týdnů. A všechny údaje naznačovaly, že se tak stane. Ukrajina se zhroutí, bude ovládnuta. Putin nazval svou válku speciální vojenskou operací, což naznačuje i vaše očekávání ohledně rozsahu, očekávání ohledně času. Takže napůl vojenská, napůl policejní operace. Takže každý rozumný člověk na světě věřil, že se to stane. A je to hrdinství \"nerozumných\" lidí, jako je Zelenskyj, jako je velitel ukrajinských ozbrojených sil Zolužnyj, jako jsou starostové měst, Kličko a další. Jmenuji jen jména, která jsou nám dnes téměř všem známá. Ale těch lidí jsou tisíce, nerozumných lidí, kteří se rozhodli, že je nerozumné napadnout jejich zemi."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:05:28",
+        "ts_sortable": 7528,
+        "text": "A to byly ty nejtěžší časy a dny. A když už mluvíme o Zelenském, každý rozumný vůdce na Západě se ho snažil přesvědčit, aby opustil Ukrajinu a vytvořil exilovou vládu v Polsku nebo v Londýně. A bylo rozumné přijmout jednoho z jeho předchůdců pana Janukovyče, který utekl z Kyjeva. Několik měsíců předtím v Afghánistánu utekl afghánský prezident. To bylo rozumné očekávat a ukázalo se, že v tomto smyslu byl velmi, velmi nerozumný. To přichází s odvahou, jeho odvahou a odvahou lidí kolem něj a Ukrajinců obecně."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:06:24",
+        "ts_sortable": 7584,
+        "text": "Proč myslíte, že zůstal v Kyjevě, tento bývalý komik, který si v televizi hrál na prezidenta, když Kyjev napadla druhá nejsilnější armáda na světě?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:06:38",
+        "ts_sortable": 7598,
+        "text": "Protože si myslím, že ve věci věří. Jednou z nich bylo, že pokud je prezidentem a je v prezidentském úřadě, má svou roli hrát až do konce. A další věc, moje osobní, znovu opakuji, já jsem se s Volodymyrem Zelenským nikdy nesetkal. Moje osobní představa o něm je, že má talent, který mu pomáhal v kariéře před prezidentstvím a pak pomáhá i teď. On cítí publikum a pak usměrňuje postoje publika a zesiluje je. A myslím si, že dalším důvodem, proč neodešel z Kyjeva, bylo to, že cítil publikum, publikum v tom konkrétním kontextu pro Ukrajince."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:07:41",
+        "ts_sortable": 7661,
+        "text": "Měl tedy pocit, že se Ukrajinci sjednotí. Protože on byl, když se podíváte na průzkumy před válkou, dost nepopulární. A pořád tam byly rozpory a frakce a vláda je rozdělená, je tam Východ a Západ a všechny tyhle věci. Myslíte si, že měl pocit, že by to mohlo lidi sjednotit."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:08:03",
+        "ts_sortable": 7683,
+        "text": "Východ a Západ už nebyl takovým problémem poté, co Krym a část Donbasu zmizely. Ukrajina tak byla mnohem jednotnější než předtím. Přivedl k moci svou předtím skutečně neexistující stranu regionů na své osobní popularitě. Ale důležité je, že vytvořil většinu v parlamentu, což skutečně odráželo jednotu, která mezi Ukrajinci existovala a která tam předtím nebyla. Zvítězil s třiaosmdesáti procenty obyvatel, kteří se zúčastnili voleb, jeho předchůdce Petro Porošenko také nosil devadesát procent okrsků. A stejně tak tomu bylo i v případě Zelenského. Země se tedy po dva tisíce čtrnáct sjednotila, a to v míře, kterou si předtím nebylo možné představit. A Zelenskij cítil, že Zelenskij to ví, a tady opravdu záleží na talentu politika. To je něco, co můžete vidět nad rámec pouhých dat, a můžete cítit, že Jelcin tuto schopnost zřejmě měl."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:09:31",
+        "ts_sortable": 7771,
+        "text": "Proč mírová jednání ztroskotala? Mírových jednání bylo mnoho."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:09:36",
+        "ts_sortable": 7776,
+        "text": "Hlavním důvodem je, že podmínky, které se Rusko snažilo Ukrajině vnutit, byly pro Ukrajinu v podstatě nepřijatelné. Protože jednou z podmínek kromě té podivné věci, která se jmenuje denacifikace, byla samozřejmě faktická ztráta území. A do budoucna skutečně zůstat mimo buď NATO, nebo jakoukoliv západní podporu, což bylo zcela jasné. Můžete si koupit pár týdnů, můžete si koupit pár měsíců, ale v takových podmínkách se Rusko zítra vrátí a všechno převezme."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:10:19",
+        "ts_sortable": 7819,
+        "text": "A jakmile si Ukrajinci uvědomili, že mohou zvítězit na bojišti, jakmile byli Rusové poraženi a stáhli se z Kyjeva, objevila se příležitost vystoupit z jednání, která zcela jasně vedla, když ne dnes, tak zítra, k úplnému zničení Ukrajiny. A pak samozřejmě, jakmile se území začalo osvobozovat, vystoupily do popředí věci jako řezničina a masakry civilního obyvatelstva, což také velmi ztížilo, ne-li znemožnilo vést jednání z tohoto morálního a emocionálního hlediska."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:11:05",
+        "ts_sortable": 7865,
+        "text": "A co tvrzení, že Boris Johnson, Západ ohrozil schopnost těchto mírových jednání být úspěšná, v podstatě je zmanipuloval?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:11:17",
+        "ts_sortable": 7877,
+        "text": "Ptal jsem se na to lidí, kteří Borise Johnsona v Kyjevě doprovázeli, a odpověď zněla ne. A já této odpovědi věřím a řeknu vám proč. Protože je pro mě velmi obtížné si představit, že by prezident Zelenskyj přijímal rozkazy od kohokoli na světě. Ať už je to Johnson nebo Joe Biden nebo kdokoli jiný, a v podstatě dělat věci, o kterých se Zelenskij domnívá, že nejsou v jeho zájmu nebo v zájmu jeho země. Prostě si nedokážu představit, že by někdo na světě Zelenskému říkal, co má dělat, a Zelenskyj by to skutečně plnil proti svému vlastnímu přání a touze. Pokud je to alespoň možné, tak to, co je ve veřejném prostoru, nám nedovoluje naznačit, že tomu tak je."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:12:23",
+        "ts_sortable": 7943,
+        "text": "Zelenskij je však chytrý muž a ví, že válka může pokračovat pouze s podporou Západu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:12:32",
+        "ts_sortable": 7952,
+        "text": "To je jiný předpoklad, než že může pokračovat s podporou Západu. Ale pokud se mluví o odstoupení od jednání, tak to není o pokračování války, že nepotřebujete podporu Západu."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:12:49",
+        "ts_sortable": 7969,
+        "text": "No, chci tím říct, že pokud by začal tušit, že Západ bude podporovat, ať se děje, co se děje, pak je možná prostor pro rozhodnutí, která děláte, jiný."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:12:59",
+        "ts_sortable": 7979,
+        "text": "Můžeme si to tak vyložit. Ale Boris Johnson v tu chvíli zastupoval Británii, nikoli Spojené státy. A skutečně to, co válka ukázala, a už tehdy bylo jasné, že je potřeba masivní podpora Západu jako celku. A příslib té podpory přišel až poté, co si Západ uvědomil, že Ukrajina může vyhrát, a přišel až koncem dubna je Rammstein, tedy minimálně o několik týdnů později. Takže nevím, kolik toho mohl Boris Johnson slíbit, asi mohl slíbit, že se pokusí pomoci a pokusí se přesvědčit a pokusí se na tom pracovat. Pokud Zelenskyj jednal na základě tohoto slibu, tak určitě riskoval. Ale klíčová otázka, opět se vracím tam, kde jsem začal, je principiální nepřijatelnost pro Ukrajinu podmínek, které byly nabídnuty. A Ukrajina byla v okamžiku, kdy viděla možnost, že by se mohla bránit s Johnsonovou podporou, bez Johnsonovy podpory to riskla."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:14:18",
+        "ts_sortable": 8058,
+        "text": "Jaké jsou podle vás možnosti ukončení této války? Jaké jsou různé možné trajektorie, ať už jde o mírová jednání? Jak pro vás vypadá vítězství na této straně? Jaká je role USA? Jaké trajektorie vidíte jako možné?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:14:33",
+        "ts_sortable": 8073,
+        "text": "Je to otázka, na kterou je na jedné straně velmi snadné odpovědět, na druhé straně velmi obtížné. Úroveň, na které je to velmi snadné, je široká historická perspektiva. Pokud skutečně věříte, a já v to věřím, že se jedná o válku o sovětské nástupnictví, že se jedná o válku o rozpad impéria. Víme, jak končí dějiny, a ty končí rozpadem impéria. Končí vznikem nových států a objevením se nových barevných bodů na mapě. To je příběh, který začal americkou revolucí, takže to je dlouhodobá perspektiva. Obtížné je samozřejmě to, co se stane zítra. Obtížné je, co bude za dva dny nebo dokonce za dva roky. Velmi obecně řečeno, válka může skončit podle jednoho ze tří scénářů."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:15:36",
+        "ts_sortable": 8136,
+        "text": "Vítězství jedné strany, vítězství druhé strany a jakýsi pat a kompromis, zejména pokud jde o území. Tato válka se již blíží ke konci druhého roku. Sleduji zprávy a dívám se na analýzy. Nevzpomínám si na jediný článek, který by naznačoval, že příští rok přinese mír nebo přinese-"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:16:00",
+        "ts_sortable": 8160,
+        "text": "Naznačuje, že příští rok určitě přinese mír a že jsme v situaci, kdy obě strany stále věří, že mohou něčeho dosáhnout nebo zlepšit své postavení na bojišti. Taková byla jistě očekávání ukrajinské strany ještě v létě a na začátku podzimu dva tisíce dvacet tři a podle toho, co jsem pochopil nyní, taková jsou jistě i očekávání ruské strany dnes. Jedná se o největší válku v Evropě od druhé světové války, největší válku na světě od korejské války. A víme, že korejská válka skončila tímto rozdělením Koreje, ale jednání probíhala více než dva roky. Zatímco tato jednání probíhala, obě strany se tam snažily zlepšit své postavení. A dokud nedošlo k politické změně, smrti Stalina, soupeře Eisenhowera ve Spojených státech a uvědomění si, že šance na úspěch na bojišti jsou obrovské, k mírovým jednáním nedošlo. V tuto chvíli jsou tedy možné všechny tři scénáře. Opravdu nepodceňuji žádný z nich. Je předčasné říkat, co se stane."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:17:34",
+        "ts_sortable": 8254,
+        "text": "Zkusme si tedy bez jakékoli politické změny představit, jaké jsou možnosti, že válka letos skončí? Je možné, že může skončit kompromisem v podstatě na místě, kde začala?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:17:49",
+        "ts_sortable": 8269,
+        "text": "Tedy zpět k hranicím roku dva tisíce dvacet dva."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:17:52",
+        "ts_sortable": 8272,
+        "text": "Jo. Zpět na hranice dvaadvacátého roku s určitými bezpečnostními zárukami, které ve skutečnosti nejsou zárukami, ale jsou nadějnými zárukami."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:18:01",
+        "ts_sortable": 8281,
+        "text": "Ne, není to jen virtuální nemožnost, je to nemožné bez politické změny v Moskvě. Důvodem je to, že Vladimir Putin ještě na podzim roku dva tisíce dvacet dva zařadil do ruské ústavy pět ukrajinských regionů, oblastí, dokonce i těch, které neovládal nebo plně neovládal, což v podstatě zjednodušeně řečeno znamená, že má svázané ruce nejen Putin sám, ale i jeho případní nástupci. To tedy znamená, že žádný návrat k hranicím z roku dva tisíce dvacet dva bez politické změny v Moskvě není možný. Několik dní po tomto rozhodnutí v Moskvě vydal Zelenskij dekret, který říká, že žádná jednání s Ruskem nebudou. Co to ve skutečnosti znamenalo v jednoduchém jazyce, že v podstatě nejsme připraveni jednat o stabilní dohodě s pěti oblastmi, a to nejen dalšími, ale ani zahrnutými do ruské ústavy. Takže tam jsme, takže ten scénář, opět, všechno je samozřejmě možné, ale je to velmi, velmi nepravděpodobné."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:19:22",
+        "ts_sortable": 8362,
+        "text": "Takže ruská ústava je věc, která to všechno velmi ztěžuje."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:19:27",
+        "ts_sortable": 8367,
+        "text": "Ano, a to nejen jako vyjednávací taktika pro Putina nebo kohokoli, kdo by vyjednával na ruské straně, ale také jako právní otázka."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:19:37",
+        "ts_sortable": 8377,
+        "text": "Takže i praktická stránka věci je obtížná."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:19:40",
+        "ts_sortable": 8380,
+        "text": "Ano. Ústavu je skutečně třeba změnit předtím, než začne platit mírová dohoda, nebo bezprostředně poté. A v případě minských dohod to byla jedna z věcí, kterou Rusko po Ukrajině chtělo, změna ústavy, a ukázalo se, že je to vzácně nemožné. Takže to je jedno z pozadí Minsku a krachu minských dohod."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:20:05",
+        "ts_sortable": 8405,
+        "text": "Existuje něco podobného jako minské dohody, které jsou nyní možné, možná je to právní otázka, ale překonat ústavu, aby se všechno nějak otřáslo? Vidět tedy změnu ústavy jen jako vyjednávací taktiku, aby se přistoupilo k něčemu takovému, jako jsou minské dohody?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:20:25",
+        "ts_sortable": 8425,
+        "text": "Vzhledem k tomu, jak rychle byly tyto změny ústavy přijaty, to naznačuje, že výkonná moc má v Rusku skutečně obrovskou moc nad mocí zákonodárnou. Takže je to opět těžko představitelné, ale technicky je to možné, ale opět možné, pokud dojde k politické změně v Moskvě."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:20:50",
+        "ts_sortable": 8450,
+        "text": "Nechápu, proč není možné letos předpokládat politickou změnu v Moskvě, a tak se snažím zjistit, zda existuje způsob, jak tuto válku letos ukončit. Je to tak?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:20:59",
+        "ts_sortable": 8459,
+        "text": "Existuje možnost příměří, že? Ale příměří spíše jakékoliv příměří, po linii současné frontové linie. Ale stažení ruských vojsk k hranicím dvaadvacítky v tuto chvíli, ať už je rozumné, nebo nerozumné, může být dosaženo všeho jen v důsledku porážky ruské armády, jako se to stalo u Kyjeva. Je to možné? Je to možné. Je to pravděpodobné, zejména vzhledem k tomu, co se děje s podporou Západu, vojenskou podporou Ukrajiny? Pravděpodobně ne."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:21:36",
+        "ts_sortable": 8496,
+        "text": "Ale když má Putin, výkonná moc velkou moc, proč by nemohl prezident Spojených států, ruský prezident, ukrajinský prezident zasednout k jednacímu stolu a upustit od něčeho takového, jako jsou minské dohody, a pak rychle provést ústavní změny a vrátit se k hranicím před rokem dva tisíce dvacet dva? Prostřednictvím dohod, prostřednictvím kompromisu, pro vás nemožné?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:22:03",
+        "ts_sortable": 8523,
+        "text": "Letos určitě ne. Na letošní rok se dívám jako na období, kdy se alespoň jedna strana, ruská, bude snažit získat co nejvíce vojenskými prostředky."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:22:17",
+        "ts_sortable": 8537,
+        "text": "Ale to se dělo i loni. Došlo k protiofenzívě, k pokusům."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:22:22",
+        "ts_sortable": 8542,
+        "text": "Neznamená to, že nový rok má nějak přinést novou taktiku. Minulý rok byl docela hodně bojů, hodně utrpení, velmi málo pohybu frontové linie. Největší změnou loňského roku bylo vítězství Ukrajiny na Černém moři, kde zatlačili ruské námořnictvo do západní části rybníka a obnovili obilný koridor a vývoz z Oděsy, zřejmě až na pětasedmdesát procent toho, co bylo před válkou. Takže to je jediná větší změna, ale zase ta cena je obrovská, pokud jde o bohatství, a hlavně o životy."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:23:18",
+        "ts_sortable": 8598,
+        "text": "Když se zamyslíme nad tím, co přinese dva tisíce dvacet čtyři, Zelenskij právě vyhodil šéfa ukrajinské armády, vámi zmíněného generála Valerije Zálužného. Co si o tomto vývoji myslíte?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:23:32",
+        "ts_sortable": 8612,
+        "text": "Toto je velmi, velmi nebezpečný okamžik války. Důvodem je to, že Zalužný je člověk, který je u armády a nás lidí obecně velmi oblíbený. Takže když se na to podíváte americkou optikou, bylo by to něco obdobného, jako kdyby prezident Truman vyhodil generála MacArthura, vzhledem k tomu, že sázky pro USA byly v té době velmi vysoké, ale pravděpodobně ne tak vysoké jako dnes pro Ukrajinu. V obou případech je jistě v sázce myšlenka, že politické vedení a vojenské vedení musí být na stejné vlně."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:24:22",
+        "ts_sortable": 8662,
+        "text": "A je otázkou, zda ze strany Zelenského jde jen o změnu vedení, nebo také o změnu jeho přístupu k válce, což může znamenat mnoho věcí. Zaprvé to může znamenat, že se aktivněji podílí na plánování operací. Může to znamenat i možnou změnu taktiky ve válce, vzhledem k tomu, že protiofenzíva nevyšla. To zatím nevíme. Nevím, jestli prezident Zelenskyj v tuto chvíli přesně ví, co bude následovat, ale je to doba, kdy změna vedení v zemi a v armádě, která je ve válce, je to jeden z nejtěžších, nejnebezpečnějších okamžiků."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:25:14",
+        "ts_sortable": 8714,
+        "text": "Prezident Zelensky se vyjádřil, že se jedná o změnu taktiky, technologicky vyspělejší přístup a podobné věci. Ale jak jste řekl, myslím, že je méně populární než šéf armády Zálužný, osmdesát až šedesát procent v závislosti na průzkumech. Myslíte si, že je možné, že Zelenského dny jako prezidenta jsou sečteny a k moci se dostane někdo jako Zalužnyj?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:25:51",
+        "ts_sortable": 8751,
+        "text": "Víme, že v této válce se ukrajinský lid skutečně sjednotil kolem svého prezidenta a ozbrojené síly byly vždy, dokonce i před začátkem války, populárnější než prezidentský úřad, takže změna, ke které v této oblasti došlo, nebyla tak dramatická. A z toho, co vidím na sociálních sítích na Ukrajině, je tam hodně neštěstí, hodně otázek, ale je tam také uvědomění, a to velmi silné uvědomění, že země musí zůstat jednotná. A určitě chování samotného Zálužného tam v podstatě nenaznačuje nějaký scénář typu Prigožina. To mi dává určitou naději, vlastně velkou naději."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:26:54",
+        "ts_sortable": 8814,
+        "text": "A pokud jde o to, zda jsou Zelenského dny sečteny, nebo ne, nemyslím si, že jsou sečteny, ale pokud Ukrajina zůstane demokracií, a já věřím, že zůstane, napadá mě příběh Churchilla, příběh de Gaulla. V Polsku příběh Pilsudského. Takže až skončí válka, opravdu voliči v demokratických volbách chtějí změnit politické vedení, chtějí jít dopředu. Ale Pilsudski se vrátil k moci a de Gaulle se vrátil k moci a Churchill se vrátil k moci. Takže ne, ať už se v krátkodobém nebo střednědobém horizontu stane cokoli, myslím, že Zelenského dny v politice nejsou sečteny."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:27:52",
+        "ts_sortable": 8872,
+        "text": "Co je pro vás zajímavé? Například, pokud budu mít možnost udělat rozhovor se Zelenským, co je pro vás na tomto člověku zajímavé, na co by bylo dobré se ho zeptat, prozkoumat stav jeho mysli, jeho myšlení, jeho pohled na současný svět?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:28:07",
+        "ts_sortable": 8887,
+        "text": "Příští měsíc se mají konat ukrajinské volby. Ty se nekonají, protože většina Ukrajinců si nemyslí, že je to správné, měnit prezidenta, konat volby, vést politický boj uprostřed války. Takže Zelenskyj odmítl ty volby vypsat, přestože je a zůstává nejpopulárnějším politikem na Ukrajině. Takže by to bylo v jeho prospěch, ale to Ukrajinci zjevně nechtějí. Ale otázka pokračování ve funkci prezidenta po pěti letech by také tak či onak vyvolala otázky ohledně legitimity a určitě Rusko bude s touto kartou hrát, jako by nebylo zítřka. Na co by mě zajímalo se zeptat Zelenského, jestli vidí, že jeho druhé funkční období, které přichází za těchto podmínek, by naznačovalo jiný postoj k opozici. Možná nějaká forma koaliční vlády, jako to bylo v Británii za Churchilla, samozřejmě za jiných okolností, nebo je to v podstatě podle jeho názoru něco, co by bylo destruktivní a něco, co by skutečně bylo překážkou pro tu otázku, pro otázku jednoty a válečného úsilí. A já bych tuto otázku položil ne proto, abych v podstatě naznačoval, že to je cesta, ale velmi by mě zajímalo, co si o tom myslí."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:29:54",
+        "ts_sortable": 8994,
+        "text": "Myslíte si, že v době války může moc, která je spojena s funkcí válečného prezidenta, člověka do jisté míry zkazit, odklonit ho od demokratického myšlení směrem k autoritářskému?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:30:13",
+        "ts_sortable": 9013,
+        "text": "Myslím, že taková možnost existuje, že? V podmínkách jakékoli mimořádné situace, války, v případě Sovětského svazu došlo k černobylské havárii a tak dále a tak dále, se rozhodujete mnohem rychleji. Vytvoříte si tuto vertikálu a pak je velmi snadné si opravdu zvyknout na tento způsob řešení podmínek mimořádné události. A při pokračující mimořádné události nebo při žádné mimořádné události se pokračuje v režimu mimořádné události. Opět si myslím, že by to byla velmi, velmi přirozená věc pro každého člověka, aby si to usnadnil. Měl bych to dělat jednodušeji a efektivněji, nebo bych to měl dělat správným způsobem? To je ta výzva. Někdy je těžké na tuto otázku odpovědět."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:31:17",
+        "ts_sortable": 9077,
+        "text": "Nechte mě ještě chvíli u moci, abych to dělal efektivně, a pak čas uteče a najednou se chystáte na třetí a čtvrté volební období."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:31:28",
+        "ts_sortable": 9088,
+        "text": "A najednou je snadné si uvědomit, že to vlastně jinak nejde. Jakékoli schopnosti, které jste měli, nebo lidé kolem vás, kteří vám mohou pomoci, jsou už pryč?"
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:31:40",
+        "ts_sortable": 9100,
+        "text": "Přesně tak. Lidé, kteří vás obklopují, neposkytují kritickou zpětnou vazbu, která je pro demokratický systém nezbytná. Jedna z věcí, kterou Tucker řekl po rozhovoru s Putinem, byl zrovna v hotelu, jen tak si povídal na videu, a řekl, že má pocit, že Putin není moc dobrý ve vysvětlování, jako souvislém, uceleném vyprávění, proč k té invazi došlo, nebo prostě takový celkový obraz. A říkal, že to není proto, že by ho neměl, ale že už je to dlouho, co měl kolem sebe někoho, komu by musel vysvětlovat, takže už vyšel ze cviku, což je velmi zajímavé. Je to velmi zajímavý bod. A to je to, co může udělat válka a to, že je delší dobu u moci. Takže k tomuto tématu, kdybyste měl možnost mluvit s Putinem, jaké otázky byste mu položil? Co byste se chtěl dozvědět o jeho současném postavení?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:32:46",
+        "ts_sortable": 9166,
+        "text": "Jako historik mám spoustu otázek a mám otázky, kdy bylo rozhodnuto o útoku na Ukrajinu a co k tomuto rozhodnutí vedlo, protože o tom přemýšlíme, snažíme se to řešit. Jako historik mám jednu velkou otázku. Mám otázku ohledně Krymu, kdy byla učiněna tato rozhodnutí. Takže takové ty otázky, které mě zajímají, ale zbytek buď si myslím, že chápu, o co s ním jde, nebo neočekávám odpověď, která může pomoci. Například dobrá otázka, jestli litujete nebo nelitujete začátku války ve dvaadvacátém roce, vzhledem k obrovským, obrovským ztrátám na obou stranách. Ale od politika nemůžete očekávat upřímnou odpověď na tuto otázku. Je to tak? Takže jsou otázky, na které vím, že nemůže poctivě odpovědět, a pak jsou jiné otázky, na které už podle mě poskytl všechny odpovědi, které mohl. Takže to, co mě zajímá, jsou v podstatě otázky pro historika o načasování a logice jednotlivých rozhodnutí."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:34:04",
+        "ts_sortable": 9244,
+        "text": "Zajímalo by mě, jak moc se liší to, co říká veřejně, od toho, co si myslí v soukromí, takže otázka, kdy dojde k rozhodnutí o invazi na Ukrajinu, je velmi dobrou otázkou, která umožní nahlédnout do rozdílu mezi tím, jak přemýšlí o světě v soukromí, a tím, co říká veřejně. A totéž o impériu, když se Putina zeptáte, řekne, že nemá zájem o impérium a že mu tato představa připadá hloupá, ale zároveň možná v soukromí existuje smysl, v němž usiluje o znovusjednocení ruského impéria."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:34:52",
+        "ts_sortable": 9292,
+        "text": "Ne v podobě Ruského impéria, ne v podobě Sovětského svazu, ale určitě v nějaké podobě ruské kontroly. Alespoň pro mě je to zcela jasné, jinak by neexistovaly busty ruským imperátorům a Kateřině a Petrovi a dalším."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:35:18",
+        "ts_sortable": 9318,
+        "text": "Ve své knize nazvané Frontová linie jste napsal: Eseje o minulosti a současnosti Ukrajiny o ruské otázce, kterou tuším poprvé formuloval Solženicyn v roce tisíc devět set devadesát čtyři. Solženicyn je samozřejmě ročník Souostroví Gulag, je to poloviční Ukrajinec. Co je to ruská otázka?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:35:42",
+        "ts_sortable": 9342,
+        "text": "Solženicyn se jasně označuje za Rusa a jeho odpor ke komunistickému režimu byl postojem rusisty. Jeho argumentem tedy bylo, že komunismus byl pro Rusko špatný, a ruská otázka se pro něj týká etnických Rusů, ale také uvažoval o Rusech v Putinově pojetí, tak, jak uvažuje Putin. V Solženicynově pojetí o Ukrajincích a Bělorusech, kteří tvoří jeho součást. Ruská otázka je tedy největší tragédií dvacátého století, ztrátou státnosti a rozdělením Rusů mezi různé státy. To je Solženicynova ruská otázka a jeho původní myšlenka a plán byly prezentovány v eseji, kterou publikoval v roce tisíc devět set devadesát a která se jmenovala Jak bychom měli přestavět Rusko."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:36:52",
+        "ts_sortable": 9412,
+        "text": "A restrukturalizovat Rusko znamenalo zbavit se Pobaltí, středoasijského Kavkazu a nechat Rusy, Ukrajince a Bělorusy, včetně těch, kteří žijí v severním Kazachstánu, vytvořit jeden národní stát. Byl tedy ruským nacionalistou, ale o ruském národním státě uvažoval jako o státu Rusů, Ukrajinců a Bělorusů. A jakmile se Sovětský svaz rozpadl a jeho myšlenka nebyla v roce tisíc devět set devadesát realizována, formuloval plán B, převzetí Donbasu, Krymu a jižní Ukrajiny Ruskem, tedy oblastí, které jsou nyní zahrnuty do ruské ústavy. Takže z historického a intelektuálního hlediska to, co se dnes děje ve válce mezi Ruskem a Ukrajinou, je vize na té či oné úrovni, kterou formuloval noblesní laureát Alexandr Solženicyn, napůl Rus, napůl Ukrajinec."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:38:04",
+        "ts_sortable": 9484,
+        "text": "Pokud něco takového existuje, jaká je podle vás dnešní ukrajinská otázka?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:38:10",
+        "ts_sortable": 9490,
+        "text": "Ukrajinská otázka je velmi jednoduchá. Nyní již nejde o získání národního státu, ale skutečně o suverénní stát. Ale je to udržení, takže ukrajinská otázka je jako desítky jiných otázek ve dvacátém a jednadvacátém století, vznik nového státu. A to je to, co je ukrajinská otázka, jestli Ukrajina bude pokračovat ve své existenci jako národ, jako nezávislý stát, protože ta existence byla zpochybněna tím, že se konstatuje, že Rusové a Ukrajinci tak dále jsou stejný národ, což de facto říká, že váš člověk je Rus a také se snaží zničit stát."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:38:58",
+        "ts_sortable": 9538,
+        "text": "Je možné, že pokud bude válka na Ukrajině pokračovat ještě mnoho let, že příští vůdce, který bude následovat Zelenského, odvede Ukrajinu od demokratického západního stylu k autoritářskému, možná dokonce s vlivem krajní pravice, tedy k takovému směřování kvůli vlivu války?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:39:25",
+        "ts_sortable": 9565,
+        "text": "Možné je všechno, a čím déle válka trvá, tím pravděpodobnější takový scénář je. Realizace takového scénáře by však byla v rozporu s největší částí ukrajinských dějin. Tam, kde Ukrajina skutečně vznikla jako pluralitní stát, na němž byly v posledních třiceti letech vybudovány prvky demokracie, by šel proti proudu ukrajinské společnosti, kde, jak formuloval jeden autor v roce tisíc devět set devadesát, napsal knihu Ukrajinský nacionalismus: A Minority Faith, kde nacionalisté byli menšinovou vírou. A radikální nacionalismus je i nadále, nebo přinejmenším v roce dva tisíce devět set devadesát, menšinovou vírou i při posledních volbách. Takže možné, ale vzhledem k historické realitě posledních více než třiceti let nepravděpodobné."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:40:28",
+        "ts_sortable": 9628,
+        "text": "Jen o Černobylu bych s vámi mohl mluvit ještě mnoho hodin, protože jste o Černobylu a jaderné katastrofě napsal knihu. Je tu prostě milion možných rozhovorů, ale dovolte mi trochu přeskočit do historie. Ještě před druhou světovou válkou moje babička zažila holodomor a druhou světovou válku, nacisty okupovanou Ukrajinu. Holodomor, co se dozvíte řekněme o lidské povaze a o vládách a národech z toho, že se Holodomor stal? A možná byste mohl říct, co to je a proč se to stalo?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:41:11",
+        "ts_sortable": 9671,
+        "text": "Holodomor je obrovský hladomor na Ukrajině mezi lety tisíc devět set třicet dva a tisíc devět set třicet čtyři, a to v důsledku násilné kolektivizace zemědělství, a tamp ze strany Stalina také skutečně válcovat Ukrajinu do Sovětského svazu v podstatě bez potenciální opozice ze strany Ukrajiny, nyní národní komunisté. Takže dvě věci se sešly v prosinci roku tisíc devět set třicet dva, kdy Stalin s Molotovem v jednom výnosu podepsali dekret o převzetí obilí, což nakonec vedlo k masovému hladomoru, a o zákazu publikací a vzdělávání v ukrajinštině v ostatních sovětských republikách mimo Ukrajinu a zavedení omezení takzvané ukrajinizační politiky, tedy používání ukrajinštiny na samotné Ukrajině. A o číslech se vedou debaty. Čísla, se kterými dnes pracuje většina vědců, jsou čtyři miliony, ale opět kolují i větší čísla."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:42:39",
+        "ts_sortable": 9759,
+        "text": "Hladomor ve dvaatřicátém až třiatřicátém roce nebyl výhradně ukrajinským fenoménem, ale většina Ukrajinců v Sovětském svazu zemřela na Ukrajině. A Ukrajina byla jediným místem, kde se politika sběru obilí snoubila s politikou očisty politického vedení, vysíláním lidí z Moskvy na obnovu vedení a útokem na ukrajinskou kulturu. Takže pokud jde o to, co se dozvídám o lidské povaze, spíš se dozvídám o ideologiích dvacátého století, protože to není jediný hladomor v komunistických zemích. Hladomor v Číně, který byl z hlediska počtu mnohem ničivější než tento. Je v jiné kategorii a z dobrého důvodu, ale máte holocaust. To, co tyto věci spojuje, je doba. Jedná se o dvacáté století."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:43:49",
+        "ts_sortable": 9829,
+        "text": "To, co je spojuje, je dominance ve společnostech, které to dělají, skutečně ideologie, které nejenže znehodnotily lidský život, ale domnívaly se, že vlastně cesta vpřed vede přes zničení velké skupiny obyvatelstva definované etnicky, nábožensky, sociálně nebo jinak, což vypovídá o době, ale vypovídá to i o lidstvu, protože po staletí předtím se lidský život cenil. Byli tu nepřátelé, ale myšlenka byla, že lidský život lze položit a nakonec mohou být otroky. Lze je využít pro produktivní sílu. Země v osmnáctém století s jižní Ukrajinou, hledaly osadníky, lidi, které by mohly přivést a žít na půdě. Přesunete se do dvacátého století a dochází k masovému ničení obyvatelstva ve jménu ideologií, které v podstatě z definice ničí lidské životy."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:44:57",
+        "ts_sortable": 9897,
+        "text": "A to je skutečně šokující a zarážející, protože to, co se děje, se rozchází nejen s otázkami morálky, nejen s otázkami lidskosti, s jakýmkoli zdravým rozumem. A já jsem naprosto přesvědčen, že jsme se nepoučili. Jsem naprosto přesvědčen, že jsme se nepoučili. S tím, že jsme otočili stránku s fašismem komunismem, jsme se jaksi rozhodli, že jsme od toho osvobozeni. Že přinejmenším v těchto termínech dějiny skončily. Že to, co je před námi, je budoucnost a nic takového. To, co se stalo, by se odehrálo do té míry, že by lidé měli problémy s tím, že by srovnávali nějaké výroky nebo události, které se dějí dnes, s komunismem nebo fašismem. A tak cítím odpovědnost sám za sebe a zejména jako historik za to, že jsem neudělal víc práce pro to, abych lidem řekl: \"No, jsme takoví, jací jsme, a máme jako lidé své temné stránky a musíme být velmi opatrní.\" A tak jsem si uvědomil, že je to pravda."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:46:25",
+        "ts_sortable": 9985,
+        "text": "Existuje tedy lidská schopnost nechat se uchvátit ideou, ideologií, která tvrdí, že přinese lepší svět, jako to udělali nacisté nebo Sovětský svaz. A na cestě k tomu, že znehodnotíme lidský život, že přineseme lepší svět. A pokud na cestě k tomu musí být umučeny miliony lidí, dobrá, ale alespoň máme lepší svět a lidské bytosti jsou schopny to když ne přijmout, tak se dívat jinam."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:47:01",
+        "ts_sortable": 10021,
+        "text": "Ano. A to ve jménu určitého národa nebo rasy, jako byla Třetí říše nebo ve jménu budoucího lidstva. Tedy nejen znehodnotit lidský život, ale zničit lidský život."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:47:17",
+        "ts_sortable": 10037,
+        "text": "Je v komunismu a centralizovaném plánování něco zásadního, co je součástí problému? Možná to souvisí i s příběhem Černobylu, kdy černobylská katastrofa není jen příběhem selhání jaderné elektrárny, ale celé vědecké a jaderné instituce, ale celé vlády."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:47:42",
+        "ts_sortable": 10062,
+        "text": "Existuje a existuje řada faktorů politického a sociálního charakteru, které způsobily vznik Černobylu. Jedním z nich je obecně atmosféra utajení v Sovětském svazu v podmínkách studené války. Černobylský reaktor byl reaktorem dvojího určení. Dnes mohl vařit vodu a zítra vyrábět obohacený uran, takže byl přísně tajný, a pokud se s tímto reaktorem vyskytly problémy, byly tyto problémy utajovány i u lidí, kteří reaktor provozovali. To se stalo v Černobylu. Další velká, velká část příběhu, která je specificky sovětská, to je povaha manažerské kultury a administrativní kultury, v níž lidé neměli právo rozhodovat na svém místě, na své pozici."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:48:48",
+        "ts_sortable": 10128,
+        "text": "Několik let předtím došlo k havárii na ostrově Three Mile Island, což byla velká jaderná katastrofa, ale z hlediska následků se Černobylu nevyrovnala. A tam v kontextu americké právní kultury a manažerské kultury lidé, kteří byli provozovateli, kteří byli na manažerských pozicích, měli odpovědnost za rozhodování. Prezident Carter tam přišel, ale v žádné z těchto otázek nerozhodoval. To, co vidíte v Černobylu, a lidé, kteří viděli seriál HBO, to dobře vědí, v okamžiku, kdy přijede vysoký úředník, všichni vlastně spadnou do řady, je to úředník, který rozhoduje. A k tomu, abyste mohli přesunout obyvatelstvo z města Pripjať, jste potřebovali souhlas, který přišel z Moskvy z nejvyšších míst. Takže to je sovětský příběh, a pak je tu globální příběh o krácení, aby se splnily buď termíny, jako to bylo s tím testem, který tehdy probíhal, nebo aby se splnily výrobní kvóty. To není jen socialistická záležitost, můžete..."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:50:00",
+        "ts_sortable": 10200,
+        "text": "... kvóty, to není jen socialistická záležitost. Výrobní kvóty můžete nahradit ziskem a dostanete stejný příběh. Takže některé části toho příběhu obecně odrážejí dnešní svět obecně. Jiné jsou velmi specifické, velmi specifické pro Sovětský svaz, pro sovětskou zkušenost. A pak ta největší, asi sovětská část toho příběhu je, že na jedné straně vláda v Moskvě a v Kyjevě mobilizuje všechny prostředky, aby se s tím vypořádala, ale informace o tom, co se děje a o radiačních mracích, drží v tajnosti před zbytkem obyvatelstva, což by úplně nebylo možné a bylo nemožné v USA, ve Velké Británii, kde se staly jiné havárie."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:50:58",
+        "ts_sortable": 10258,
+        "text": "A pak hádejte co? O několik let později se Sovětský svaz zhroutí, a to i díky mobilizaci lidí v otázce Černobylu a jaderné energie. Lidé píšící o tomto tématu tomu říkají eko-nacionalismus, ekologický nacionalismus, který přinejmenším zčásti pramení ze zatajování informací lidem. A na Ukrajině nezačala mobilizace kvůli otázkám, které vedly k nezávislosti, nezačala kvůli otázce jazyka nebo nezačala kvůli otázce národní autonomie. Začala pod hesly: \"Řekněte nám pravdu o Černobylu. Chceme vědět, zda žijeme v zamořené oblasti, nebo ne.\" To se stalo."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:51:50",
+        "ts_sortable": 10310,
+        "text": "A to byl velmi, velmi silný faktor, který překračoval nejen etnické náboženské jazykové hranice, ale i hranice mezi členy strany a nečleny stranického vedení top§ a ne v armádě a v civilu, protože se ukázalo, že stranický průkaz nechrání před postižením radiací. Takže dochází k celonárodní mobilizaci. První masové manifestace se týkají Černobylu, ne něčeho jiného."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:52:24",
+        "ts_sortable": 10344,
+        "text": "To je fascinující. Pro lidi, kteří to možná nevědí, Černobyl se nachází na Ukrajině. Fascinující je názor, že Černobyl mohl být jedním z kritických prahových katalyzátorů rozpadu Sovětského svazu. To je velmi zajímavé. Jen tak na okraj, myslím, že je to vhodná chvíle, abychom věnovali trochu lásky seriálu HBO. I když je to s britským přízvukem a tak dále, uvědomil jsem si, že některé z těchto příběhů ve východní Evropě by se daly velmi efektivně vyprávět prostřednictvím filmu, prostřednictvím seriálu. Je to tak neuvěřitelně dobře udělané. A možná bych se mohl zeptat i vás. Historicky vzato, zapůsobilo to na vás?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:53:09",
+        "ts_sortable": 10389,
+        "text": "Byl jsem. Byl jsem a myslím si, že minisérie jsou v mnoha ohledech velmi pravdivé a v některých jiných velmi nepravdivé. A velmi dobře postihly makro i mikroúroveň. Takže makroúroveň je otázka velké pravdy a příběh je tam velmi postaven na tématu, o kterém jsem teď mluvil. Je to o ceně lží a o tom, že Sovětský svaz lhal lidem. A to je to, co film zkoumá. Takže tomu říkám velká pravda o Černobylu. A spoustu drobných věcí vystihli opravdu, opravdu velmi dobře. Třeba záclony na oknech, jak ty domy vypadaly zevnitř i zvenku. Neviděl jsem žádný postsovětský film nebo žádný západní film, který by tak dobře zachytil tyhle každodenní detaily."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:54:23",
+        "ts_sortable": 10463,
+        "text": "Mezi velkou a malou pravdou o obnově životního prostředí je však obrovská šedá zóna. A tak se dostáváte od jednoho k druhému. A pak vidíte, jak přicházejí příslušníci KGB a odvádějí někoho ze schůze a zatýkají, což nebylo nutné. Vidíte, jak sovětský šéf někomu vyhrožuje, že toho člověka vyhodí z vrtulníku. Takže se vám dějí takové ty hollywoodské věci, přestože je to seriál HBO. A nejlepší jsou opravdu jako film ve čtvrtém díle, kde se úplně rozhodli, že prostě půjdou k čertu s realitou a natočíme film."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:55:10",
+        "ts_sortable": 10510,
+        "text": "Na soudní jednání proto přivedou Legasova, jednu z klíčových postav. Přivedou šéfa sovětské strany Ščerbinu, ten tam nebyl. Vytvořili tam drama. Takže to hlavní, tu velkou pravdu vystihli správně, a proto se mi ta inscenace líbí."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:55:35",
+        "ts_sortable": 10535,
+        "text": "Abyste ukázali, jak se něco cítilo, musíte to někdy zvětšit, než to ve skutečnosti bylo. Když... já nevím. Když zažijete zlomené srdce a vidíte o tom film, chcete, aby tam byly výbuchy."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:55:53",
+        "ts_sortable": 10553,
+        "text": "Chcete to vidět na obrázcích. Viditelné, že? Ale zase ta otázka, já jsem právě zmínil pochod KGB a projev nějakého stranického vůdce, oni ten projev nepřednášeli, ale ten pocit tam byl a byl ve vzduchu a já, jako lidé mé generace, kteří tam byli, jsem to věděl a poznal. Ale pro novou generaci, ať už je na Ukrajině a v Rusku, v USA, v Británii, v Zimbabwe, kdekoli, musíte dělat tyhle malé nepravdy a zavádět je. A měl jsem velmi zajímavý rozhovor v přímém přenosu s autorem scénáře Mazinem a položil jsem mu otázku, že film deklaroval opravdu důležitost pravdy, ale jak to skloubit s potřebou ve filmu, opravdu mírně řečeno, překročit měřítka pravdy, ať už je chápání tohoto pojmu jakékoliv?"
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:57:12",
+        "ts_sortable": 10632,
+        "text": "No, asi je trochu děsivé, že některé z nejdramatičtějších okamžiků v dějinách jsou pravděpodobně docela všední. Rozhodnutí o zahájení válek, invaze, to je asi něco jako schůzka na Zoomu v náhodné úterý na dnešním pracovišti. Takže to není tak, že by k tomu hrála dramatická hudba. Jsou to jen lidská rozhodnutí a ta velí armádám a nařizují ničení. Já osobně kvůli tomu věřím v sílu jednotlivců, kteří jsou schopni zastavit války, ne jenom je začít, jednotlivých vůdců."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:57:51",
+        "ts_sortable": 10671,
+        "text": "Dovolte mi tedy, abych se zeptal na jadernou bezpečnost, protože máte zajímavou poznámku. V knize Atomy a popel jste napsal: A Global History of Nuclear Disasters, tak technicky vzato je jaderná energie extrémně bezpečná. Pokud jde o počet mrtvých na jednu vyrobenou energii, je mnohem bezpečnější než například uhelná ropa, pokud tomu dobře rozumím. Ale případ, který uvádíte, je také ten, že píšete, cituji: \"Mnoho politických, ekonomických, sociálních a kulturních faktorů, které vedly k nehodám v minulosti, je tu s námi i dnes, což činí jaderný průmysl zranitelným vůči opakování starých chyb novými a nečekanými způsoby a jakákoli nová nehoda jistě vyvolá novou protijadernou mobilizaci\"."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "02:58:35",
+        "ts_sortable": 10715,
+        "text": "A pak pokračujete: \"To činí jaderný průmysl nejen riskantním, ale také s ním nelze počítat jako s dlouhodobým řešením obrovského problému.\" Můžete tento pohled vysvětlit? Je to zajímavý pohled, který hovoří o psychologii, když dojde k havárii, má to dramatický dopad. A také hovoří o tom, že k nehodám může dojít nikoliv kvůli bezpečnosti jaderné elektrárny, ale kvůli základní struktuře vlády, která na ni dohlíží."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:59:14",
+        "ts_sortable": 10754,
+        "text": "Ano, napsal jsem knihu o Černobylu a pak jsem se snažil Černobyl lépe pochopit tím, že jsem ho zasadil do kontextu jiných katastrof. Jako historik jsem se zabýval politickými, sociálními a kulturními faktory, nikoliv fyzikální nebo technickou částí příběhu. A faktory, které jsou stále s námi, jsou, podobně jako tomu bylo v případě Černobylu, autoritářské režimy a vysoká centralizace rozhodování a snaha ušetřit a také problémy spojené s utajováním."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "02:59:57",
+        "ts_sortable": 10797,
+        "text": "Pokud se podíváte na to, kde je nyní budoucnost jaderného průmyslu, jsou to režimy a mocnosti na Blízkém východě, což je velká nová hranice. Země, které nejsou zrovna známé historií demokratické existence. Kde máme také situaci, kterou jsme měli na Three Mile Island, kterou jsme měli v Černobylu, to je první generace jaderných inženýrů. Tedy lidé, kteří jsou, kde země nemá mnoho zkušeností a generace po generaci pracují v tomto konkrétním odvětví, kde je to všechno nové. To je jistě další riziko."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:00:53",
+        "ts_sortable": 10853,
+        "text": "A to, co jsme dostali teď s touto současnou válkou, je něco, co... Ne že by lidé úplně nečekali, ale v minulosti se to nestalo. Vidíte, že válka přišla do jaderných lokalit, Černobyl byl obsazen ruskou armádou nebo spíše Národní gardou, v první den invaze. Pak tu byla Záporoží, největší jaderná elektrárna v Evropě, kde se bojovalo na území jaderné elektrárny. Vystřelování raket, hořící budovy a situace, která přinesla katastrofu ve Fukušimě, tam byla v Záporoží nejednou, a Fukušima přišla proto, že reaktory byly odstavené, jako jsou v Záporoží, ale stále potřebovaly elektřinu, aby se k nim přivedla voda a aby se spustily."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:01:52",
+        "ts_sortable": 10912,
+        "text": "A v případě Fukušimy to byla tsunami, která přerušila dodávky elektřiny. V případě Záporoží to byly válečné akce, které probíhaly v oblasti kolem Záporoží a které měly stejný účinek. Takže dnes máme na světě čtyři sta čtyřicet reaktorů, plus minus. Žádný z nich nebyl navržen tak, aby vydržel přímý raketový útok nebo aby fungoval v podmínkách válečného konfliktu. Operátoři jsou lidé, pak dělají chyby, jako to udělali Three Mile Island nebo Černobyl. Ale myslete také na to, když se kolem nich odehrává válka, když si nejsou jisti, co se děje s jejich rodinami, když nevědí, jestli další raketa, jestli zasáhne velín nebo ne, to se také násobí."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:02:46",
+        "ts_sortable": 10966,
+        "text": "Jsme tedy v situaci, kdy jsme s jadernými haváriemi ještě neskončili. Není to tak, že bychom nedávali pozor nebo se nepoučili. Chytří lidé na tom pracují a po každé nehodě se snaží přijít na způsob, jak nešlápnout do stejné pasti. Ale další nehoda by ve skutečnosti odhalila nová zranitelná místa. Vyřešíte Černobyl a pak přijde tsunami. Vypořádáte se s tsunami a pak přijde válka. A my opravdu v tomto smyslu máme někdy bujnou fantazii, ale někdy je těžké si představit, co se může stát příště. Takže jsme neskončili. Jaderné havárie budou bohužel i v budoucnu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:03:41",
+        "ts_sortable": 11021,
+        "text": "A to činí jadernou energii problematickou, pokud s ní počítáme v boji proti změně klimatu. Vysvětlím vám proč. Uvedl jste čísla, kolik lidí zemře při spalování uhlí, od kolik lidí zemře na ozáření. A to je dobrý argument. Někteří lidé by je zpochybnili, protože je to také otázka nejen umírání, ale i vlivu záření na rakovinu, na naše zdraví, což ještě není zcela pochopeno. Takže stále je tu spousta otazníků, ale předpokládejme, že to, co říkáte, jsou ta čísla. Tak to je. Ale my jako lidé se z nějakého důvodu nebojíme uhlí, ale velmi se bojíme radiace. Je neviditelné, je všude a není vidět."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:04:43",
+        "ts_sortable": 11083,
+        "text": "A pak začnete mít problémy a pak máte problémy během COVID, vlády uzavřely hranice, možná dobrý nápad, možná ne tak dobrý nápad, izolace. Takže takhle vlády začaly bojovat o přístup, bojovat, k Moderně, ke Sputniku, k čemukoliv, k vakcíně. Takže teď zpátky k radiaci. Co se stane, až dojde k Černobylu? To je zatím nejvyšší bod ve vývoji jaderného průmyslu z hlediska toho, kolik nových reaktorů bylo uvedeno do provozu nebo kolik bylo vydáno licencí."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:05:35",
+        "ts_sortable": 11135,
+        "text": "Další reaktor po Three Mile Island v USA byl uveden do provozu, zdá se mi, že před deseti lety nebo tak nějak, Fukušima se stala, reakce je v Číně na to také. Jsou velmi znepokojeni. Takže v této oblasti se říká: \"Kdekoliv je Černobyl, všude je Černobyl.\" To je takový příměr. Po Fukušimě se Německo rozhodne pro bezjaderný provoz a dostane se tam na úkor spalování uhlí. Takže takhle reagujeme my. A každá větší havárie, to znamená globální zmrazení výroby jaderných reaktorů na dalších nejméně deset let. Takže tím chci říct, že jaderný průmysl je politicky, nejen z hlediska technologie a nejen z hlediska radiace, dopadu na zdraví, ale také politicky velmi, velmi nespolehlivá varianta."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "03:06:38",
+        "ts_sortable": 11198,
+        "text": "A vy tušíte, že je to nenapravitelný aspekt lidské povahy v lidské mysli, že existují určité věci, které prostě vyvolávají určitý druh paniky, neviditelné hrozby tohoto druhu. Ať už je to virus nebo radiace. Je něco v mysli, že když mě po Fukušimě ve Spojených státech začne bolet břicho, tak si tak nějak myslím, že je to asi radiace, takový ten iracionální typ myšlení. A to se nedá napravit?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:07:10",
+        "ts_sortable": 11230,
+        "text": "Myslím, že nás lze vycvičit. Můžeme být vyškoleni."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "03:07:15",
+        "ts_sortable": 11235,
+        "text": "Jsme docela chytří, že? Vzdělání."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:07:16",
+        "ts_sortable": 11236,
+        "text": "Obecně se však bojíme věcí, které vidíme, ale ještě více se bojíme věcí, které nevidíme, a radiace je jednou z nich."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "03:07:28",
+        "ts_sortable": 11248,
+        "text": "Přibližme si svět. Mluvili jsme o válce na Ukrajině. Jak válka na Ukrajině mění světový řád? Dovolte mi, abych se podíval na vše, co se děje. Trochu si to přiblížíme. Čína, válka mezi Izraelem a Gazou, Blízký východ, Indie. Co je pro vás zajímavé, o čem je důležité přemýšlet v příštích letech a desetiletích?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:07:57",
+        "ts_sortable": 11277,
+        "text": "Jako historik, a to jsem vzdělaný, mám pocit deja vu. Vidím, že se studená válka vrací v mnoha svých rysech. A válka začala, a o tom jsme mluvili, v roce dva tisíce čtrnáct, alespoň v mé interpretaci, kdy se Rusko snažilo skutečně obnovit svou kontrolu nad postsovětským prostorem a Ukrajina byla pro tento projekt klíčová. Globálnější ruská vize od roku tisíc devět set devadesát byla taková, že se jim nelíbil americký monopolární svět. Věděli a uvědomovali si, že se nemohou vrátit k bipolárnímu světu z dob studené války. Takže jejich vizí byl multipolární svět. Opět nešlo jen o akademické cvičení, ale o politické cvičení, v němž by Rusko bylo jedním z pólů stejně jako Čína, stejně jako Evropská unie, stejně jako Spojené státy. To je velmi obecně řečeno kontext, v němž začíná válka v roce dva tisíce čtrnáct."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:09:21",
+        "ts_sortable": 11361,
+        "text": "Jak jsme na tom nyní? No, teď jsme v Rusku, které se jistě snaží obnovit svou vojenskou sílu, ale nikdo vlastně nevěří, že Rusko je velmocí, jakou si představovalo před rokem dva tisíce dvacet dva. Určitě vidíme, že Rusko nachází způsob, jak se vypořádat se sankcemi, ale určitě nevidíme Rusko jako ekonomickou velmoc s nějakou budoucností. Takže to není imploze ruské vojenské ekonomické a politické moci, ale je to výrazně... vlastně je to oslabené. Takže dnes je velmi obtížné si představit, že by se Rusko objevilo jako další pól multipolárního světa. Ne nemožné, ale válka to určitě velmi zproblematizovala a značně ztížila."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:10:26",
+        "ts_sortable": 11426,
+        "text": "Na druhou stranu válka v podstatě probudila starý Západ. Transatlantické spojenectví Spojených států a západní Evropy. Navíc jsou tu východoevropské země, které jsou dokonce mnohem, mnohem silnějšími zastánci pomoci Ukrajině než Německo nebo Spojené státy americké. Takže je to opakování příběhu studené války, Návrat Západu, tak se jmenuje jedna z kapitol mé knihy, rusko-ukrajinská válka. Můžeme v něm také vidět prvky obnovy spojenectví Pekingu a Moskvy z roku tisíc devět set padesát, které bylo velmi důležitou součástí studené války. Byla to nesmírně důležitá součást korejské války, která v mnoha ohledech zahájila i studenou válku v celosvětovém měřítku."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:11:25",
+        "ts_sortable": 11485,
+        "text": "Takže vidím mnoho paralel s návratem do doby studené války a bipolárním světem, který se objevuje, už to není svět zaměřený na Washington a Moskvu. Je to spíše svět zaměřený na Washington a Peking. A pak jsou tu země mezi nimi. Existují země mezi nimi, které se připojují k jednomu bloku nebo k jinému bloku, který vzniká a který není zcela zformován. To podle mého názoru činí z nás historiků úkol, abychom se skutečně vrátili ke studené válce a podívali se novým pohledem na historii tohoto konfliktu, protože se můžeme poučit z mnoha věcí."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "03:12:14",
+        "ts_sortable": 11534,
+        "text": "Historie se tedy v některých ohledech opakuje. Nyní je to studená válka s Čínou a Spojenými státy. Jaká je nadějná trajektorie pro zbytek jednadvacátého století?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:12:28",
+        "ts_sortable": 11548,
+        "text": "Nadějná trajektorie se skutečně snaží být stejně moudrá a šťastná, jako byli naši předchůdci během studené války. Protože dosud převládajícím diskurzem o studené válce bylo, jak strašná věc to byla. Co jsme udělali špatně? Jak jsme se ocitli ve studené válce? A myslím si, že zejména dnes je to špatně položená otázka. Správná otázka zní: Jak k tomu došlo? Co jsme udělali tak dobře, že už více než sedmdesát let nemáme světovou válku? Jak to, že po první světové válce přišla během dvaceti let druhá světová válka? Co nám pomohlo udržet svět na pokraji, ale přesto tak dlouho mimo globální válku? Jak se podařilo udržet studenou válku v chladu. To je největší poučení, které nám historie studené války může dát. A myslím, že si tuto otázku neklademe dost často, neklademe si ji tímto způsobem. A pokud si neklademe správné otázky, nedostaneme správné odpovědi."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "03:13:53",
+        "ts_sortable": 11633,
+        "text": "Ano, napsal jste knihu, skvělou knihu o kubánské krizi. Byli jsme velmi blízko nejen další světové válce, ale i jaderné válce a zničení lidské civilizace, jak ji známe. Takže je asi dobré se zeptat, co jsme udělali tak dobře? A jednou z odpovědí by možná mohlo být, že jsme prostě měli štěstí. A otázka zní, jak to, že budeme mít štěstí i nadále?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:14:32",
+        "ts_sortable": 11672,
+        "text": "Štěstí je zjevně, zjevně jedním z faktorů kubánské krize, protože to, co se tam stalo, a je to jedno z poučení, je, že nakonec velitelé nahoře věří, že mají všechny karty, a vyjednávají mezi sebou. Snaží se zjistit, kdo ve hře jaderného zbrojení mrkne jako první. Vtip je v tom, že plně neovládají lidi na zemi. Nejnebezpečnějším okamžikem nebo jedním z nejnebezpečnějších okamžiků kubánské krize bylo sestřelení amerického letadla sovětskou raketou, při němž zahynul pilot, což byl válečný akt. Takže technicky vzato jsme již ve válce. A rozkaz k sestřelení rakety byl vydán, aniž by Moskva tušila, co se děje na zemi. Moskva k tomu nikdy nedala souhlas."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:15:40",
+        "ts_sortable": 11740,
+        "text": "A znovu opakuji, že jsem to mnohokrát popsal v knize o Kennedym, který si přinesl moudrost z let druhé světové války. Vždycky se najde nějaký SOB, který nedostal rozkaz nebo přehlédl věci, které se děly i na americké straně. Takže lidé, kteří se domnívají, že to mají pod kontrolou, to ve skutečnosti nemají pod kontrolou, a to se může vyhrotit, ať už velmi často proti jejich vůli. Takže to je jedno poučení, ale když se vrátím k tomu, proč jsme pořád tady a proč svět neskončil v roce tisíc devět set šedesát dva, je to, že vedení, a já se dostávám k tomu, že vy pevně věříte v to, že na lidech, osobnostech záleží, na vůdcích záleží. Byli velmi rozdílní. Věk, vzdělání, politická kariéra, pochopení toho, co je to politika, a tak dále a tak dále."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "03:16:45",
+        "ts_sortable": 11805,
+        "text": "Myslíte Chruščova?"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:16:47",
+        "ts_sortable": 11807,
+        "text": "Chruščov a Kennedy. Ano, ale měli jedno společné, že v jistém smyslu patřili ke stejné generaci. To byla generace atolu Bikini, to byla generace vodíkové bomby. Bomby, o které na rozdíl od atomové bomby věděli, že může zničit svět. A měli strach. Měli strach z jaderných zbraní a snažili se dělat, co mohli, tlačili na své poradce nebo se snažili vypořádat se svými obavami. To první platí pro Kennedyho, později možná i pro Chruščova, aby se ujistili, že válka mezi Spojenými státy a Sovětským svazem nezačne, protože věděli, že ta válka by byla jadernou válkou."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:17:50",
+        "ts_sortable": 11870,
+        "text": "Máme tedy velmi, velmi paradoxní situaci. Krize nastala kvůli jaderným zbraním, protože je Chruščov umístil na Kubu, ale krize byla vyřešena a neskončili jsme třetí světovou válkou kvůli jaderným zbraním, protože se jich lidé, vůdci báli. A právě na to chci klást důraz. Nejde o to, že by jaderné zbraně vytvořily krizi nebo krizi vyřešily, jde v podstatě o naše vnímání těchto zbraní. A my jsme nyní v době po éře studené války, s novou generací voličů, s novou generací politiků. Nepatříme ke generaci atolu Bikini. Možná víte, co je to bikini, ale my si myslíme, že je to něco-"
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:18:42",
+        "ts_sortable": 11922,
+        "text": "... Že je to něco jiného. A je to velmi důležité."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "03:18:42",
+        "ts_sortable": 11922,
+        "text": "Je to něco jiného. Jo."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "03:18:46",
+        "ts_sortable": 11926,
+        "text": "Je fascinující, jak se to vytrácí ze vzpomínek, jak se vytrácí síla, respekt a strach ze síly jaderných zbraní. A pak se dost možná dopustíme stejných chyb znovu."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:18:59",
+        "ts_sortable": 11939,
+        "text": "Ano, můžeme."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "03:19:01",
+        "ts_sortable": 11941,
+        "text": "Myslím, že to řekl jiný vedoucí, ale na úplně jiné téma. No, jak jste řekl, jsem také rád, že jsme tady jako civilizace, že se zdá, že stále pokračujeme. Je nás několik miliard. A taky jsem rád, že jsme tu my dva. Četl jsem spoustu vašich knih. Doporučoval jsem vám je. Prosím, pište dál. Děkuji vám za dnešní rozhovor. Bylo mi ctí."
+    },
+    {
+        "speaker": "Serhii Plokhy",
+        "timestamp": "03:19:24",
+        "ts_sortable": 11964,
+        "text": "Moc vám děkuji, Lexi. Bylo mi potěšením."
+    },
+    {
+        "speaker": "Lex Fridman",
+        "timestamp": "03:19:27",
+        "ts_sortable": 11967,
+        "text": "Děkujeme, že jste si poslechli rozhovor se Serhiem Plokhym. Chcete-li podpořit tento podcast. Podívejte se prosím na naše sponzory v popisu. A nyní mi dovolte, abych vás opustil několika slovy Ernesta Hemingwaye. \"Nikdy si nemyslete, že válka, ať už je jakkoli nutná nebo oprávněná, není zločin.\" Děkuji vám za poslech a doufám, že se uvidíme příště."
+    }
+]

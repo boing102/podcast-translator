@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "podcast-translator"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+TTS = "^0.22.0"
+modal = "^0.61.58"
+beautifulsoup4 = "^4.12.3"
+deepl = "^1.17.0"
+metaflow = "^2.11.5"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
